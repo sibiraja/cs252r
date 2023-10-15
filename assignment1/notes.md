@@ -10,3 +10,4 @@
 
 
 ### Notes from BUSTLE paper
+"Given a specification of a program’s intended behavior (in this paper given by input-output examples), BUSTLE performs bottom-up enumerative search for a satisfying program, following Udupa et al. (2013)." --> Need to read Udupa's paper
