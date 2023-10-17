@@ -3,15 +3,19 @@ from tqdm import tqdm
 
 # List of tasks, where each task is a list of IO examples.
 arithmetic_input_output_examples = [
-    [([1,2], 3), ([2,3], 5), ([3,4], 7), ([4,5], 9)], # add 2 numbers
-    [([1,2], 2), ([2,3], 6), ([3,4], 12), ([4,5], 20)], # multiply 2 numbers
-    [([1,2], -1), ([2,3], -1), ([3,4], -1), ([4,6], -2)], # subtract 2 numbers
-    [([1,2], 0), ([6,3], 2), ([10,4], 2), ([49,7], 7)], # divide 2 numbers
-    # [([1,2], 1), ([2,3], 6), ([3,4], 8), ([4,5], 10)] # add 2 numbers and add 1 to result
+    # [([1,2], 3), ([2,3], 5), ([3,4], 7), ([4,5], 9)], # add 2 numbers
+    # [([1,2], 2), ([2,3], 6), ([3,4], 12), ([4,5], 20)], # multiply 2 numbers
+    # [([1,2], -1), ([2,3], -1), ([3,4], -1), ([4,6], -2)], # subtract 2 numbers
+    # [([1,2], 0), ([6,3], 2), ([10,4], 2), ([49,7], 7)], # divide 2 numbers
+    # [([1,2], 4), ([2,3], 6), ([3,4], 8), ([4,5], 10)], # add 2 numbers and add 1 to result
+    [([1,2], 9), ([2,3], 17), ([3,4], 25), ([4,5], 33)], # add 2 numbers, multiply result by 4, and subtract 3
+    # TODO: THE CORRECT EXPRESSION FOR THE LAST INPUT OUTPUT EXAMPLE IS NOT BEING CONSTRUCTED. INVESTIGATE THIS FURTHER
+
 ]
 
 # operations = ["ADD", "SUBTRACT", "MULTIPLY", "DIVIDE"]
 operations = [("ADD", 2), ("MULTIPLY", 2), ("SUBTRACT", 2), ("DIVIDE", 2)]
+# operations = [("ADD", 2), ("MULTIPLY", 2)]
 
 # def execute(op, *args):
 #     if op == "ADD":
@@ -55,7 +59,7 @@ def evaluate_expression(expr, input_mapping):
     # print("EVALUATED EXPRESSION: ", temp)
     return temp
 
-max_weight = 6
+max_weight = 8
 
 # Now, for each task's examples, run the synthesis process.
 for task_examples in arithmetic_input_output_examples:
@@ -67,7 +71,7 @@ for task_examples in arithmetic_input_output_examples:
             if ("CONST", element) not in E[1]:
                 E[1].append(("CONST", element))
     E[1].extend([("VAR", f"x{i}") for i in range(len(task_examples[0][0]))])  # Add the input variables
-    variable_set = set([f"x{i}" for i in range(len(task_examples[0][0]))])
+    # variable_set = set([f"x{i}" for i in range(len(task_examples[0][0]))])
 
 
     # print(f"\nE: {E}\n")
@@ -76,6 +80,11 @@ for task_examples in arithmetic_input_output_examples:
     for weight, expressions in E.items():
         for expr in expressions:
             args_to_weights[expr] = weight
+
+    for i in range(1, 10):
+        if ("CONST", str(i)) not in E[1]:
+            E[1].append(("CONST", str(i)))
+            args_to_weights[("CONST", str(i))] = 1
 
     # print(f"args_to_weights: {args_to_weights}\n")
     # exit()
@@ -156,6 +165,30 @@ for task_examples in arithmetic_input_output_examples:
 
 
                 expr = get_expression(operation, *(args_to_execute))
+                print("EXPR: ", expr)
+
+                # TODO: ADD THE NEW EXPRESSIONS TO THE MAPPING E AND THE MAPPING args_to_weights if the weight is not already in E
+                # but only add the expression if it consists of only constants and variables
+                # expr_split = expr.split()
+
+                add_to_E = True
+                for i, letter in enumerate(expr):
+                    if letter.isdigit() and (i == 0 or expr[i - 1] != "x"): # this assume we will not have more than 9 variables. I think this is fair assumption as that will be take too long to search for and synthesize a program anyways
+                        add_to_E = False
+                        # print("Hello")
+                        # break
+                if add_to_E:
+                    if w not in E:
+                        E[w] = [("EXPR", expr)]
+                        args_to_weights[("EXPR", expr)] = w
+
+                        # print("JUST ADDED: ", expr, "with weight: ", w, "\n")
+
+                # if expr == "((x0 + x1) + 1)":
+                #     if expr in 
+                # for element in expr_split:
+
+
                 # print("EXPR: ", expr)
                 # if expr == "(x0 + x1)":
                 #     print("FOUND IT")
@@ -170,12 +203,14 @@ for task_examples in arithmetic_input_output_examples:
 
 
                     expr_result = evaluate_expression(expr, input_mapping)
+                    # if expr == "((x0 + x1) + 1)":
+                    #     print("Evaluting expression: ", expr, "with input mapping: ", input_mapping, "and result: ", expr_result)
                     
                     if expr_result == "ERROR":
                         all_correct = False
                         break
 
-                    # TODO: ADD THE EVALUATED EXPRESSIONS TO THE MAPPING E AND THE MAPPING args_to_weights if the expression is not already in E
+                    
 
                     if expr_result != str(output):
                         # if expr == "(x0 + x1)":
@@ -193,10 +228,6 @@ for task_examples in arithmetic_input_output_examples:
                 #     print("Something went wrong")
 
 print("DONE")
-
-# TODO: implement subtraction and integer division functionality
-# TODO: handle zero division errors
-
 
 
 
