@@ -60,3 +60,10 @@ To run it on the actual scheme subset and the string manipulation subset, we can
 
 ### Plan of Action:
 1. First get the enumeration working for simple input output examples
+
+
+
+### Integrete Scheme test data
+1. Parse data and extract operations and constants
+2. Figure out how to create a linked list representation of the AST to pass into the interpreter
+3. Pass in the linked list for evaluation in the interpreter
