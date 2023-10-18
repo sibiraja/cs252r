@@ -15,29 +15,37 @@ string_input_output_examples = [
 programs_found = []
 
 # operations = [("LEFT", 1), ("RIGHT", 1), ("CONCATENATE", 2)]
-operations = [("LEFT", 2), ("RIGHT", 2)]
+operations = [("Left", 2), ("Right", 2)]
 
 def get_expression(op, *args):
 
-    if op == "LEFT":
+    if op == "Left":
 
         # error check for wrong arg types here. if wrong data types, return "ERROR"
         if type(args[0]) != str or type(args[1]) != int: # or args[1] < 0 or args[1] > 9 or args[1] >= len(args[0])
             return "ERROR"
 
-        # error check if positive index
         if args[1] >= 0:
             if args[1] >= len(args[0]):
-                return "ERROR"
-
-        # error check if negative index
-        if args[1] < 0:
-            if abs(args[1]) > len(args[0]):
                 return "ERROR"
 
         temp = f"'{args[0]}'[{args[1]}]"
         print("GOT THE LEFT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
         return temp
+    
+    elif op == "Right":
+
+        # error check for wrong arg types here. if wrong data types, return "ERROR"
+        if type(args[0]) != str or type(args[1]) != int: # or args[1] < 0 or args[1] > 9 or args[1] >= len(args[0])
+            return "ERROR"
+
+        if args[1] > len(args[0]): # use greater than here since indexing from the right starts at 1
+                return "ERROR"
+
+        temp = f"'{args[0]}'[-{args[1]}]"
+        print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
+        return temp
+
     # elif op == "RIGHT":
     #     temp = f"'{args[0]}'[-1]"
     #     print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
@@ -92,7 +100,7 @@ for task_examples in string_input_output_examples:
             args_to_weights[expr] = weight
 
     # Add numerical constants to E to allow LEFT and RIGHT to take in a number 0-9 that specifies which index to get
-    for i in range(-9, 10):
+    for i in range(0, 10):
         if ("CONST", i) not in E[1]:
             E[1].append(("CONST", i))
             args_to_weights[("CONST", i)] = 1
@@ -210,7 +218,14 @@ for task_examples in string_input_output_examples:
                
                 # only consider adding the current expression if it has the correct number of results in curr_results (otherwise it errored out on at least 1 example, so its invalid) and if all results are correct
                 if all_correct and len(curr_results) == len(task_examples):
-                    programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
+                    # programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
+                    # programs_found.append("We used this operation: " + operation + " and these arguments: " + str(arg_tuple) + "\n")
+                    temp_args = []
+                    temp_list = list(arg_tuple)
+                    for my_arg in temp_list:
+                        temp_args.append(my_arg[1])
+                    temp_args = tuple(temp_args)
+                    programs_found.append(f"Solution: {operation}{temp_args}\n")
 
                 if len(programs_found) == len(string_input_output_examples):
                     print("=====================================")
