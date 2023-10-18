@@ -5,6 +5,7 @@ from tqdm import tqdm
 
 # List of tasks, where each task is a list of IO examples.
 string_input_output_examples = [
+    [(["he", "llo"], "hello"), (["w", "orld"], "world"), (["goodb", "ye"], "goodbye"), (["bye", ""], "bye")], # concatenate
     [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
     [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
     [(["hello"], "e"), (["world"], "o"), (["goodbye"], "o"), (["bye"], "y")], # get 2nd character
@@ -14,8 +15,7 @@ string_input_output_examples = [
 
 programs_found = []
 
-# operations = [("LEFT", 1), ("RIGHT", 1), ("CONCATENATE", 2)]
-operations = [("Left", 2), ("Right", 2)]
+operations = [("Left", 2), ("Right", 2), ("Concatenate", 2)]
 
 def get_expression(op, *args):
 
@@ -46,14 +46,15 @@ def get_expression(op, *args):
         print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
         return temp
 
-    # elif op == "RIGHT":
-    #     temp = f"'{args[0]}'[-1]"
-    #     print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
-    #     return temp
-    # elif op == "RIGHT":
-    #     return f"({args[0]}[-1])"
-    # elif op == "CONCATENATE":
-    #     return f"({args[0]} + {args[1]})"
+    elif op == "Concatenate":
+
+        # error check for wrong arg types here. if wrong data types, return "ERROR"
+        if type(args[0]) != str or type(args[1]) != str:
+            return "ERROR"
+
+        temp = f"'{args[0]}'+'{args[1]}'"
+        print("GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE: ", args[0], " AND ", args[1], " AND THE RESULT IS: ", temp)
+        return temp
 
 def evaluate_expression(expr, input_mapping):
 
@@ -68,7 +69,7 @@ def evaluate_expression(expr, input_mapping):
 
     try:
         temp = str(eval(expr))
-    except ZeroDivisionError: # TODO: CAN ALSO ADD OTHER ERROR CHECKS HERE RELEVEANT TO STRING DSL MAYBE?
+    except IndexError: # TODO: CAN ALSO ADD OTHER ERROR CHECKS HERE RELEVEANT TO STRING DSL MAYBE?
         print("GOT AN ERROR")
         return "ERROR"
 
@@ -113,6 +114,13 @@ for task_examples in string_input_output_examples:
         E[1].append(("CONST", " "))
         args_to_weights[("CONST", " ")] = 1
         curr_results = [" "] * len(task_examples)
+        curr_results = tuple(curr_results)
+        results_seen.add(curr_results)
+    # add empty string constant to E
+    if ("CONST", "") not in E[1]:
+        E[1].append(("CONST", ""))
+        args_to_weights[("CONST", "")] = 1
+        curr_results = [""] * len(task_examples)
         curr_results = tuple(curr_results)
         results_seen.add(curr_results)
 
