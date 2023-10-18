@@ -5,11 +5,12 @@ from tqdm import tqdm
 
 # List of tasks, where each task is a list of IO examples.
 string_input_output_examples = [
-    [(["he", "llo"], "hello"), (["w", "orld"], "world"), (["goodb", "ye"], "goodbye"), (["bye", ""], "bye")], # concatenate
-    [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
-    [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
-    [(["hello"], "e"), (["world"], "o"), (["goodbye"], "o"), (["bye"], "y")], # get 2nd character
-    [(["hello"], "l"), (["world"], "l"), (["goodbye"], "y"), (["bye"], "y")], # get 2nd to last character
+    [(["hello"], "ho"), (["world"], "wd"), (["goodbye"], "ge"), (["bye"], "be")], # concatenate leftmost and rightmost characters
+    # [(["he", "llo"], "hello"), (["w", "orld"], "world"), (["goodb", "ye"], "goodbye"), (["bye", ""], "bye")], # concatenate
+    # [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
+    # [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
+    # [(["hello"], "e"), (["world"], "o"), (["goodbye"], "o"), (["bye"], "y")], # get 2nd character
+    # [(["hello"], "l"), (["world"], "l"), (["goodbye"], "y"), (["bye"], "y")], # get 2nd to last character
 
 ]
 
@@ -58,14 +59,39 @@ def get_expression(op, *args):
 
 def evaluate_expression(expr, input_mapping):
 
+    if type(expr) == int:
+        return expr
+
     print("Evaluating expression: ", expr)
 
     for k, v in input_mapping.items():
         expr = expr.replace(k, str(v))
 
     if input_mapping == {}:
-        print("INPUT MAPPING IS EMPTY, SO SUCCESSFULLY EVALUTED EXPRESSION: ", expr, " RESULT WAS: ", expr)
-        return expr
+        print("INPUT MAPPING IS EMPTY")
+        if "[" in expr:
+            print("testing....")
+            print("Before wrapping in quotes: ", expr)
+            expr = "\"" + expr + "\""
+            print("After wrapping in quotes: ", expr)
+            ans = str(eval(expr))
+            print("ANSWER IS: ", ans)
+            print("CYAAAA")
+            return ans
+        ans = expr
+        print("ANSWER IS: ", ans)
+        return ans
+        # expr = str(expr)
+
+        # ex
+        # try:
+        #     temp = str(eval(expr))
+        # except IndexError: # TODO: CAN ALSO ADD OTHER ERROR CHECKS HERE RELEVEANT TO STRING DSL MAYBE?
+        #     print("GOT AN ERROR")
+        #     return "ERROR"
+
+        # print("SUCCESSFULLY EVALUTED EXPRESSION: ", expr, " RESULT WAS: ", temp)
+        # return temp
 
     try:
         temp = str(eval(expr))
@@ -76,7 +102,7 @@ def evaluate_expression(expr, input_mapping):
     print("SUCCESSFULLY EVALUTED EXPRESSION: ", expr, " RESULT WAS: ", temp)
     return temp
 
-max_weight = 3 # this represents the actual term weight for our desired expression
+max_weight = 6 # this represents the actual term weight for our desired expression
 
 # Now, for each task's examples, run the synthesis process.
 for task_examples in string_input_output_examples:
@@ -167,6 +193,7 @@ for task_examples in string_input_output_examples:
 
                 args_to_execute = []
                 for arg in arg_tuple:
+                    print("Current arg: ", arg)
                     args_to_execute.append(evaluate_expression(arg[1], {})) # in a math expression, representing subexpressions as tuples means they will have parenthesis around them (which is fine and needed) --> we can't do this with strings.
 
 
