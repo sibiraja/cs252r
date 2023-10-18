@@ -3,21 +3,20 @@ from tqdm import tqdm
 
 # List of tasks, where each task is a list of IO examples.
 arithmetic_input_output_examples = [
-    [([1,2], 3), ([2,3], 5), ([3,4], 7), ([4,5], 9)], # add 2 numbers
+    # [([1,2], 3), ([2,3], 5), ([3,4], 7), ([4,5], 9)], # add 2 numbers
     # [([1,2], 2), ([2,3], 6), ([3,4], 12), ([4,5], 20)], # multiply 2 numbers
     # [([1,2], -1), ([2,3], -1), ([3,4], -1), ([4,6], -2)], # subtract 2 numbers
     # [([1,2], 0), ([6,3], 2), ([10,4], 2), ([49,7], 7)], # divide 2 numbers
-    [([1,3], 8), ([2,4], 12), ([3,7], 20), ([4,8], 24)], # add 2 numbers and multiply result by 2
-    # [([1,3], 13), ([2,5], 25), ([3,7], 37), ([4,3], 23)], # add 2 numbers, multiply result by 4, and subtract 3
-    # TODO: THE CORRECT EXPRESSION FOR THE LAST INPUT OUTPUT EXAMPLE IS NOT BEING CONSTRUCTED. INVESTIGATE THIS FURTHER
+    # [([1,3], 8), ([2,4], 12), ([3,7], 20), ([4,8], 24)], # add 2 numbers and multiply result by 2
+    [([1,3], 13), ([2,5], 25), ([3,7], 37), ([4,3], 23)], # add 2 numbers, multiply result by 4, and subtract 3 --> this example takes up too much RAM???? Getting a leaked semaphore error lol
 
 ]
 
 programs_found = []
 
 # operations = ["ADD", "SUBTRACT", "MULTIPLY", "DIVIDE"]
-# operations = [("ADD", 2), ("MULTIPLY", 2), ("SUBTRACT", 2), ("DIVIDE", 2)]
-operations = [("ADD", 2), ("MULTIPLY", 2)]
+operations = [("ADD", 2), ("MULTIPLY", 2), ("SUBTRACT", 2), ("DIVIDE", 2)]
+# operations = [("ADD", 2), ("MULTIPLY", 2)]
 
 # def execute(op, *args):
 #     if op == "ADD":
@@ -55,13 +54,13 @@ def evaluate_expression(expr, input_mapping):
     try:
         temp = str(eval(expr))
     except ZeroDivisionError: # TODO: CAN ALSO ADD OTHER ERROR CHECKS HERE RELEVEANT TO STRING DSL MAYBE?
-        print("ZERO DIVISION ERROR")
+        # print("ZERO DIVISION ERROR")
         return "ERROR"
     
     # print("EVALUATED EXPRESSION: ", temp)
     return temp
 
-max_weight = 5 # this represents the actual term weight for our desired expression
+max_weight = 7 # this represents the actual term weight for our desired expression
 
 # Now, for each task's examples, run the synthesis process.
 for task_examples in arithmetic_input_output_examples:
@@ -104,9 +103,9 @@ for task_examples in arithmetic_input_output_examples:
 
     # for w in range(2, max_weight + 1):
     for w in tqdm(range(2, max_weight + 1)):
-        print("W is now: ", w)
+        # print("W is now: ", w)
         for operation_tuple in operations:
-            print("We are now considering the following operation: ", operation_tuple)
+            # print("We are now considering the following operation: ", operation_tuple)
 
             operation = operation_tuple[0]
 
@@ -128,7 +127,7 @@ for task_examples in arithmetic_input_output_examples:
                     if arg not in args_to_weights:
                         print("WEIGHT NOT FOUND")
                 sum_of_weights = sum([args_to_weights[arg] for arg in permutation])
-                print("Current permutation: ", permutation, " has weight: ", sum_of_weights, " and we are looking for weight: ", w)
+                # print("Current permutation: ", permutation, " has weight: ", sum_of_weights, " and we are looking for weight: ", w)
                 if sum_of_weights == w - 1:
                     A.append(permutation)
 
@@ -136,10 +135,10 @@ for task_examples in arithmetic_input_output_examples:
             # print(f"Possible combinations (A): {A}\n")
             # exit()
 
-            print("A: " , A)
+            # print("A: " , A)
 
             for arg_tuple in A:
-                print("Hi!")
+                # print("Hi!")
 
                 # consider the case where we have already found a program satisfying the current task via an expression constructed from a previous arg_tuple.
                 # Then we want to break out of this loop and continue to the next task
@@ -148,7 +147,7 @@ for task_examples in arithmetic_input_output_examples:
                     answer_needed.append(output)
                 
                 if tuple(answer_needed) in results_seen:
-                    print("Hello")
+                    # print("Hello")
                     break
 
 
@@ -199,7 +198,7 @@ for task_examples in arithmetic_input_output_examples:
 
 
                 expr = get_expression(operation, *(args_to_execute))
-                print("EXPR: ", expr)
+                # print("EXPR: ", expr)
 
                 # TODO: ADD THE NEW EXPRESSIONS TO THE MAPPING E AND THE MAPPING args_to_weights if the weight is not already in E
                 # but only add the expression if it consists of only constants and variables
@@ -262,14 +261,14 @@ for task_examples in arithmetic_input_output_examples:
                         all_correct = False
                         # break --> don't break here, because we want to add the expression to E even if it is incorrect for some examples in order to correctly get all the results of an expression before checking if we need to add it to E
 
-                print(f"THE CURRENT EXPRESSION {expr} HAD THE FOLLOWING RESULTS: ", curr_results, "for task: ", task_examples, "with weight: ", w, "\n")
+                # print(f"THE CURRENT EXPRESSION {expr} HAD THE FOLLOWING RESULTS: ", curr_results, "for task: ", task_examples, "with weight: ", w, "\n")
                 # exit()
 
                 
 
                 
                 if len(curr_results) == len(task_examples):
-                    print("Hello")
+                    # print("Hello")
                     if tuple(curr_results) not in results_seen:
                         results_seen.add(tuple(curr_results))
 
@@ -279,10 +278,10 @@ for task_examples in arithmetic_input_output_examples:
                         E[w].append(("EXPR", expr))
                         args_to_weights[("EXPR", expr)] = w
 
-                        print("JUST ADDED THE SUBEXPRESSION: ", expr, "with weight: ", w, "\n")
+                        # print("JUST ADDED THE SUBEXPRESSION: ", expr, "with weight: ", w, "\n")
                     
                     else:
-                        print("WE HAVE ALREADY ACHIEVED THESE SETS OF RESULTS VIA ANOTHER EXPRESSION \n")
+                        # print("WE HAVE ALREADY ACHIEVED THESE SETS OF RESULTS VIA ANOTHER EXPRESSION \n")
                         all_correct = False # set this to false to indicate that we shouldn't add this program to our global bank
 
 
@@ -292,7 +291,7 @@ for task_examples in arithmetic_input_output_examples:
                 # only consider adding the current expression if it has the correct number of results in curr_results (otherwise it errored out on at least 1 example, so its invalid) and if all results are correct
                 if all_correct and len(curr_results) == len(task_examples):
                     # print(f"Found a program that fits the task: {expr}")
-                    print("This program works: ", expr, "for task: ", task_examples, "with weight: ", w, "\n")
+                    # print("This program works: ", expr, "for task: ", task_examples, "with weight: ", w, "\n")
                     programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
 
                 if len(programs_found) == len(arithmetic_input_output_examples):
