@@ -1,64 +1,71 @@
+# STRING DSL
+
 import itertools
 from tqdm import tqdm
 
 # List of tasks, where each task is a list of IO examples.
-arithmetic_input_output_examples = [
-    # [([1,2], 3), ([2,3], 5), ([3,4], 7), ([4,5], 9)], # add 2 numbers
-    # [([1,2], 2), ([2,3], 6), ([3,4], 12), ([4,5], 20)], # multiply 2 numbers
-    # [([1,2], -1), ([2,3], -1), ([3,4], -1), ([4,6], -2)], # subtract 2 numbers
-    # [([1,2], 0), ([6,3], 2), ([10,4], 2), ([49,7], 7)], # divide 2 numbers
-    # [([1,3], 8), ([2,4], 12), ([3,7], 20), ([4,8], 24)], # add 2 numbers and multiply result by 2
-    [([1,3], 13), ([2,5], 25), ([3,7], 37), ([4,3], 23)], # add 2 numbers, multiply result by 4, and subtract 3 --> this example takes up too much RAM???? Getting a leaked semaphore error lol
+string_input_output_examples = [
+    [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
+    [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
 
 ]
 
 programs_found = []
 
-operations = [("ADD", 2), ("MULTIPLY", 2), ("SUBTRACT", 2), ("DIVIDE", 2)]
+# operations = [("LEFT", 1), ("RIGHT", 1), ("CONCATENATE", 2)]
+operations = [("LEFT", 1), ("RIGHT", 1)]
 
 def get_expression(op, *args):
-    if op == "ADD":
-        return f"({args[0]} + {args[1]})"
-    elif op == "MULTIPLY":
-        return f"({args[0]} * {args[1]})"
-    elif op == "SUBTRACT":
-        return f"({args[0]} - {args[1]})"
-    elif op == "DIVIDE":
-        return f"({args[0]} // {args[1]})"
-    # elif op == "VAR":
-    #     return f"{args[0]}"
+    if op == "LEFT":
+        temp = f"'{args[0]}'[0]"
+        print("GOT THE LEFT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
+        return temp
+    elif op == "RIGHT":
+        temp = f"'{args[0]}'[-1]"
+        print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
+        return temp
+    # elif op == "RIGHT":
+    #     return f"({args[0]}[-1])"
+    # elif op == "CONCATENATE":
+    #     return f"({args[0]} + {args[1]})"
 
 def evaluate_expression(expr, input_mapping):
+
+    print("Evaluating expression: ", expr)
 
     for k, v in input_mapping.items():
         expr = expr.replace(k, str(v))
 
     if input_mapping == {}:
+        print("INPUT MAPPING IS EMPTY, SO SUCCESSFULLY EVALUTED EXPRESSION: ", expr, " RESULT WAS: ", expr)
         return expr
 
     try:
         temp = str(eval(expr))
     except ZeroDivisionError: # TODO: CAN ALSO ADD OTHER ERROR CHECKS HERE RELEVEANT TO STRING DSL MAYBE?
+        print("GOT AN ERROR")
         return "ERROR"
+
+    print("SUCCESSFULLY EVALUTED EXPRESSION: ", expr, " RESULT WAS: ", temp)
     return temp
 
-max_weight = 7 # this represents the actual term weight for our desired expression
+max_weight = 3 # this represents the actual term weight for our desired expression
 
 # Now, for each task's examples, run the synthesis process.
-for task_examples in arithmetic_input_output_examples:
+for task_examples in string_input_output_examples:
 
     E = {1: []}
     results_seen = set()
 
     for io_example in task_examples:
         for element in io_example[0]:
-            element = str(element)
+            # element = str(element)
             if ("CONST", element) not in E[1]:
                 E[1].append(("CONST", element))
-                curr_results = [str(element)] * len(task_examples)
+                curr_results = [element] * len(task_examples)
                 curr_results = tuple(curr_results)
                 results_seen.add(curr_results)
-    E[1].extend([("VAR", f"x{i}") for i in range(len(task_examples[0][0]))])  # Add the input variables
+    E[1].extend([("VAR", f"x{i}") for i in range(len(task_examples[0][0]))])  # Add the input variables --> maybe edit this because right now it assumes the first IO example of each task is made up of the max args we will ever see in a task
 
 
     args_to_weights = {}
@@ -66,13 +73,26 @@ for task_examples in arithmetic_input_output_examples:
         for expr in expressions:
             args_to_weights[expr] = weight
 
-    for i in range(1, 10):
-        if ("CONST", str(i)) not in E[1]:
-            E[1].append(("CONST", str(i)))
-            args_to_weights[("CONST", str(i))] = 1
-            curr_results = [str(i)] * len(task_examples)
-            curr_results = tuple(curr_results)
-            results_seen.add(curr_results)
+    # # Add numerical constants to E --> can add this back later to allow for LEFT 1, LEFT 2, etc. rather than only leftmost character (which is LEFT 1)
+    # for i in range(1, 10):
+    #     if ("CONST", str(i)) not in E[1]:
+    #         E[1].append(("CONST", str(i)))
+    #         args_to_weights[("CONST", str(i))] = 1
+    #         curr_results = [str(i)] * len(task_examples)
+    #         curr_results = tuple(curr_results)
+    #         results_seen.add(curr_results)
+
+    # add space character to E
+    if ("CONST", " ") not in E[1]:
+        E[1].append(("CONST", " "))
+        args_to_weights[("CONST", " ")] = 1
+        curr_results = [" "] * len(task_examples)
+        curr_results = tuple(curr_results)
+        results_seen.add(curr_results)
+
+    print("E: ", E)
+    print("args_to_weights: ", args_to_weights)
+    
 
     # for w in range(2, max_weight + 1):
     for w in tqdm(range(2, max_weight + 1)):
@@ -96,6 +116,8 @@ for task_examples in arithmetic_input_output_examples:
                 if sum_of_weights == w - 1:
                     A.append(permutation)
 
+            print("A: ", A)
+
             for arg_tuple in A:
 
                 # consider the case where we have already found a program satisfying the current task via an expression constructed from a previous arg_tuple.
@@ -110,7 +132,7 @@ for task_examples in arithmetic_input_output_examples:
 
                 args_to_execute = []
                 for arg in arg_tuple:
-                    args_to_execute.append(evaluate_expression(arg[1], {}))
+                    args_to_execute.append(evaluate_expression(arg[1], {})) # in a math expression, representing subexpressions as tuples means they will have parenthesis around them (which is fine and needed) --> we can't do this with strings.
 
 
                 expr = get_expression(operation, *(args_to_execute))
@@ -159,7 +181,7 @@ for task_examples in arithmetic_input_output_examples:
                 if all_correct and len(curr_results) == len(task_examples):
                     programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
 
-                if len(programs_found) == len(arithmetic_input_output_examples):
+                if len(programs_found) == len(string_input_output_examples):
                     print("=====================================")
                     print("WE HAVE FOUND THE FOLLOWING PROGRAMS: ")
                     for program in programs_found:
