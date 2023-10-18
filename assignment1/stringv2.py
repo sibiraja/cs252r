@@ -153,7 +153,11 @@ for task_examples in string_input_output_examples:
     # print("E: ", E)
     # print("args_to_weights: ", args_to_weights)
     # exit()
-    
+    E[3] = []
+    E[3].append(("EXPR", "'x0'[0]"))
+    args_to_weights[("EXPR", "'x0'[0]")] = 3
+    E[3].append(("EXPR", "'x0'[-1]"))
+    args_to_weights[("EXPR", "'x0'[-1]")] = 3
 
     # for w in range(2, max_weight + 1):
     for w in tqdm(range(3, max_weight + 1)): # starting at 3 each operation takes 2 arguments, so an expression at minimum is of weight 3, but change back to 2 later (won't make a diff, just for easier debugging right now)
