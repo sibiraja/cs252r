@@ -7,23 +7,41 @@ from tqdm import tqdm
 string_input_output_examples = [
     [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
     [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
+    [(["hello"], "e"), (["world"], "o"), (["goodbye"], "o"), (["bye"], "y")], # get 2nd character
+    [(["hello"], "l"), (["world"], "l"), (["goodbye"], "y"), (["bye"], "y")], # get 2nd to last character
 
 ]
 
 programs_found = []
 
 # operations = [("LEFT", 1), ("RIGHT", 1), ("CONCATENATE", 2)]
-operations = [("LEFT", 1), ("RIGHT", 1)]
+operations = [("LEFT", 2), ("RIGHT", 2)]
 
 def get_expression(op, *args):
+
     if op == "LEFT":
-        temp = f"'{args[0]}'[0]"
+
+        # error check for wrong arg types here. if wrong data types, return "ERROR"
+        if type(args[0]) != str or type(args[1]) != int: # or args[1] < 0 or args[1] > 9 or args[1] >= len(args[0])
+            return "ERROR"
+
+        # error check if positive index
+        if args[1] >= 0:
+            if args[1] >= len(args[0]):
+                return "ERROR"
+
+        # error check if negative index
+        if args[1] < 0:
+            if abs(args[1]) > len(args[0]):
+                return "ERROR"
+
+        temp = f"'{args[0]}'[{args[1]}]"
         print("GOT THE LEFT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
         return temp
-    elif op == "RIGHT":
-        temp = f"'{args[0]}'[-1]"
-        print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
-        return temp
+    # elif op == "RIGHT":
+    #     temp = f"'{args[0]}'[-1]"
+    #     print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
+    #     return temp
     # elif op == "RIGHT":
     #     return f"({args[0]}[-1])"
     # elif op == "CONCATENATE":
@@ -73,14 +91,14 @@ for task_examples in string_input_output_examples:
         for expr in expressions:
             args_to_weights[expr] = weight
 
-    # # Add numerical constants to E --> can add this back later to allow for LEFT 1, LEFT 2, etc. rather than only leftmost character (which is LEFT 1)
-    # for i in range(1, 10):
-    #     if ("CONST", str(i)) not in E[1]:
-    #         E[1].append(("CONST", str(i)))
-    #         args_to_weights[("CONST", str(i))] = 1
-    #         curr_results = [str(i)] * len(task_examples)
-    #         curr_results = tuple(curr_results)
-    #         results_seen.add(curr_results)
+    # Add numerical constants to E to allow LEFT and RIGHT to take in a number 0-9 that specifies which index to get
+    for i in range(-9, 10):
+        if ("CONST", i) not in E[1]:
+            E[1].append(("CONST", i))
+            args_to_weights[("CONST", i)] = 1
+            curr_results = [i] * len(task_examples)
+            curr_results = tuple(curr_results)
+            results_seen.add(curr_results)
 
     # add space character to E
     if ("CONST", " ") not in E[1]:
@@ -90,12 +108,13 @@ for task_examples in string_input_output_examples:
         curr_results = tuple(curr_results)
         results_seen.add(curr_results)
 
-    print("E: ", E)
-    print("args_to_weights: ", args_to_weights)
+    # print("E: ", E)
+    # print("args_to_weights: ", args_to_weights)
+    # exit()
     
 
     # for w in range(2, max_weight + 1):
-    for w in tqdm(range(2, max_weight + 1)):
+    for w in tqdm(range(3, max_weight + 1)): # starting at 3 each operation takes 2 arguments, so an expression at minimum is of weight 3, but change back to 2 later (won't make a diff, just for easier debugging right now)
         # print("W is now: ", w)
         for operation_tuple in operations:
 
@@ -116,7 +135,7 @@ for task_examples in string_input_output_examples:
                 if sum_of_weights == w - 1:
                     A.append(permutation)
 
-            print("A: ", A)
+            # print("A: ", A)
 
             for arg_tuple in A:
 
@@ -135,7 +154,19 @@ for task_examples in string_input_output_examples:
                     args_to_execute.append(evaluate_expression(arg[1], {})) # in a math expression, representing subexpressions as tuples means they will have parenthesis around them (which is fine and needed) --> we can't do this with strings.
 
 
-                expr = get_expression(operation, *(args_to_execute))
+                print("args_to_execute: ", args_to_execute)
+
+
+                expr = get_expression(operation, *(args_to_execute)) # add error checking for string DSL in this helper function since I can just continue to next arg_tuple if i have wrong data types as args
+                if expr == "ERROR":
+                    print("The expression ", expr, " is invalid, so we will continue to the next arg_tuple")
+                    # exit()
+                    continue
+                else:
+                    print("We constructed a valid expression: ", expr)
+                    # exit()
+                # print("expr: ", expr)
+                # exit()
 
                 # Keep a list of what the current expression evaluates to for each example in the task.
                 curr_results = []
@@ -147,7 +178,7 @@ for task_examples in string_input_output_examples:
 
 
 
-                    expr_result = evaluate_expression(expr, input_mapping)
+                    expr_result = evaluate_expression(expr, input_mapping) # i did error checking in arithmetic domain in this helper function 
                     
                     if expr_result == "ERROR":
                         all_correct = False
