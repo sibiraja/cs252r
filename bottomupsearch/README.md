@@ -78,6 +78,8 @@ Solution: (x0 // x1)
 DONE
 ```
 
+Note that variables `x0, x1, ...` are used to represent the inputs to the program so the generated program will represent your inputs as such.
+
 In the event that the bottom up search is unable to find a program that satisfies all of the input and output examples, it will print the following output in your terminal:
 
 ```
