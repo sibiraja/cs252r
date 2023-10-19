@@ -69,7 +69,6 @@ arithmetic_input_output_examples = [
 The bottom up search will output the following in your terminal:
 
 ```
-
 =====================================
 WE HAVE FOUND THE FOLLOWING PROGRAMS: 
 Solution: (x0 + x1)
@@ -77,5 +76,13 @@ Solution: (x0 * x1)
 Solution: (x0 - x1)
 Solution: (x0 // x1)
 DONE
+```
+
+In the event that the bottom up search is unable to find a program that satisfies all of the input and output examples, it will print the following output in your terminal:
 
 ```
+If we reached this point, we did not synthesize programs :(
+```
+
+
+**That's it from me! Enjoy and happy Synthesizing!**
