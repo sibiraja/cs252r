@@ -6,7 +6,7 @@ from tqdm import tqdm
 # List of tasks, where each task is a list of IO examples.
 string_input_output_examples = [
     # [(["hello"], "ho"), (["world"], "wd"), (["goodbye"], "ge"), (["bye"], "be")], # concatenate leftmost and rightmost characters
-    [(["he", "llo"], "l"), (["w", "orld"], "r"), (["good", "bye"], "o"), (["tes", "ting"], "s")], # concatenate
+    [(["he", "llo"], "l"), (["w", "orld"], "r"), (["good", "bye"], "o"), (["tes", "ting"], "s")], # concat then get 3 character from the leftmost
     # [(["he", "llo"], "hello"), (["w", "orld"], "world"), (["goodb", "ye"], "goodbye"), (["bye", ""], "bye")], # concatenate
     # [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
     # [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
