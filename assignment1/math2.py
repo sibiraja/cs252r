@@ -6,11 +6,11 @@ from tqdm import tqdm
 
 # List of tasks, where each task is a list of IO examples.
 arithmetic_input_output_examples = [
-    # [([1,2], 3), ([2,3], 5), ([3,4], 7), ([4,5], 9)], # add 2 numbers
+    [([1,2], 3), ([2,3], 5), ([3,4], 7), ([4,5], 9)], # add 2 numbers
     [([1,2], 2), ([2,3], 6), ([3,4], 12), ([4,5], 20)], # multiply 2 numbers
     [([1,2], -1), ([2,3], -1), ([3,4], -1), ([4,6], -2)], # subtract 2 numbers
-    # [([1,2], 0), ([6,3], 2), ([10,4], 2), ([49,7], 7)], # divide 2 numbers
-    # [([1,3], 8), ([2,4], 12), ([3,7], 20), ([4,8], 24)], # add 2 numbers and multiply result by 2
+    [([1,2], 0), ([6,3], 2), ([10,4], 2), ([49,7], 7)], # divide 2 numbers
+    [([1,3], 8), ([2,4], 12), ([3,7], 20), ([4,8], 24)], # add 2 numbers and multiply result by 2
     # [([1,3], 13), ([2,5], 25), ([3,7], 37), ([4,3], 23)], # add 2 numbers, multiply result by 4, and subtract 3 --> this example takes up too much RAM???? Getting a leaked semaphore error lol
 
 ]
@@ -28,6 +28,8 @@ def get_expression(op, *args):
         return f"({args[0]} - {args[1]})"
     elif op == "DIVIDE":
         return f"({args[0]} // {args[1]})"
+    # elif op == "VAR":
+    #     return f"{args[0]}"
 
 def evaluate_expression(expr, input_mapping):
 
@@ -43,7 +45,7 @@ def evaluate_expression(expr, input_mapping):
         return "ERROR"
     return temp
 
-max_weight = 7 # this represents the actual term weight for our desired expression
+max_weight = 5 # this represents the actual term weight for our desired expression
 
 # Now, for each task's examples, run the synthesis process.
 for task_examples in arithmetic_input_output_examples:
@@ -78,6 +80,14 @@ for task_examples in arithmetic_input_output_examples:
 
     # for w in range(2, max_weight + 1):
     for w in tqdm(range(2, max_weight + 1)):
+        if len(programs_found) == len(arithmetic_input_output_examples):
+            print("=====================================")
+            print("WE HAVE FOUND THE FOLLOWING PROGRAMS: ")
+            for program in programs_found:
+                print(program)
+            print("DONE")
+            exit()
+
         # print("W is now: ", w)
         for operation_tuple in operations:
 
@@ -161,7 +171,8 @@ for task_examples in arithmetic_input_output_examples:
                
                 # only consider adding the current expression if it has the correct number of results in curr_results (otherwise it errored out on at least 1 example, so its invalid) and if all results are correct
                 if all_correct and len(curr_results) == len(task_examples):
-                    programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
+                    # programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
+                    programs_found.append("Solution: " + expr)
 
                 if len(programs_found) == len(arithmetic_input_output_examples):
                     print("=====================================")

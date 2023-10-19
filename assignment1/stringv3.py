@@ -7,7 +7,7 @@ trash_list = []
 
 # List of tasks, where each task is a list of IO examples.
 string_input_output_examples = [
-    # [(["hello"], "ho"), (["world"], "wd"), (["goodbye"], "ge"), (["bye"], "be")], # concatenate leftmost and rightmost characters
+    # [(["hello"], "ho"), (["world"], "wd"), (["goodbye"], "ge"), (["bye"], "be")], # concatenate leftmost and rightmost characters --> requires too much memory due to 5+ weight
     [(["he", "llo"], "l"), (["w", "orld"], "r"), (["good", "bye"], "o"), (["tes", "ting"], "s")], # concat then get 3 character from the leftmost
     [(["he", "llo"], "hello"), (["w", "orld"], "world"), (["goodb", "ye"], "goodbye"), (["bye", ""], "bye")], # concatenate
     [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
@@ -115,10 +115,10 @@ for task_examples in string_input_output_examples:
 
     for io_example in task_examples:
         for element in io_example[0]:
-            # element = str(element)
+            element = str(element)
             if ("CONST", element) not in E[1]:
                 E[1].append(("CONST", element))
-                curr_results = [element] * len(task_examples)
+                curr_results = [str(element)] * len(task_examples)
                 curr_results = tuple(curr_results)
                 results_seen.add(curr_results)
     E[1].extend([("VAR", f"x{i}") for i in range(len(task_examples[0][0]))])  # Add the input variables --> maybe edit this because right now it assumes the first IO example of each task is made up of the max args we will ever see in a task
@@ -205,14 +205,7 @@ for task_examples in string_input_output_examples:
 
                 expr = get_expression(operation, *(args_to_execute)) # add error checking for string DSL in this helper function since I can just continue to next arg_tuple if i have wrong data types as args
                 if expr == "ERROR":
-                    print("The expression ", expr, " is invalid, so we will continue to the next arg_tuple")
-                    # exit()
                     continue
-                else:
-                    print("We constructed a valid expression: ", expr)
-                    # exit()
-                # print("expr: ", expr)
-                # exit()
 
                 # Keep a list of what the current expression evaluates to for each example in the task.
                 curr_results = []
@@ -256,11 +249,6 @@ for task_examples in string_input_output_examples:
                
                 # only consider adding the current expression if it has the correct number of results in curr_results (otherwise it errored out on at least 1 example, so its invalid) and if all results are correct
                 if all_correct and len(curr_results) == len(task_examples):
-                    # original formatting: still doesn't work for compound expressions
-                    # programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
-                    # programs_found.append("We used this operation: " + operation + " and these arguments: " + str(arg_tuple) + "\n")
-
-                    # format option 2: doesn't work for compound expressions
                     temp_args = []
                     temp_list = list(arg_tuple)
                     for my_arg in temp_list:
