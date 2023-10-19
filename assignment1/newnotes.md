@@ -9,3 +9,6 @@ Here's how I should go about this:
 - Then create a helper function for EACH difference.
 - The helper functions should take in a 0 or 1 and depending on if the arg is a 0 or 1, we execute code for the corresponding task domain {0: arithmetic, 1: string}
 - Then, we define a main function in masterbustle.py that takes in a 0 or 1 via CLI and calls the relevant helper functions in another file (e.g. helper.py)
+
+
+- Also make a actual readme that explains code structure so it's clear after organizing as above

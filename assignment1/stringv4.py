@@ -3,23 +3,22 @@
 import itertools
 from tqdm import tqdm
 
-trash_list = []
-
 # List of tasks, where each task is a list of IO examples.
 string_input_output_examples = [
     # [(["hello"], "ho"), (["world"], "wd"), (["goodbye"], "ge"), (["bye"], "be")], # concatenate leftmost and rightmost characters
-    [(["he", "llo"], "l"), (["w", "orld"], "r"), (["good", "bye"], "o"), (["tes", "ting"], "s")], # concat then get 3 character from the leftmost
+    # [(["he", "llo"], "l"), (["w", "orld"], "r"), (["good", "bye"], "o"), (["tes", "ting"], "s")], # concat then get 3 character from the leftmost
     [(["he", "llo"], "hello"), (["w", "orld"], "world"), (["goodb", "ye"], "goodbye"), (["bye", ""], "bye")], # concatenate
-    [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
-    [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
-    [(["hello"], "e"), (["world"], "o"), (["goodbye"], "o"), (["bye"], "y")], # get 2nd character
-    [(["hello"], "l"), (["world"], "l"), (["goodbye"], "y"), (["bye"], "y")], # get 2nd to last character
+    # [(["hello"], "h"), (["world"], "w"), (["goodbye"], "g"), (["bye"], "b")], # get left most character
+    # [(["hello"], "o"), (["world"], "d"), (["goodbye"], "e"), (["bye"], "e")], # get right most character
+    # [(["hello"], "e"), (["world"], "o"), (["goodbye"], "o"), (["bye"], "y")], # get 2nd character
+    # [(["hello"], "l"), (["world"], "l"), (["goodbye"], "y"), (["bye"], "y")], # get 2nd to last character
 
 ]
 
 programs_found = []
 
-operations = [("Left", 2), ("Right", 2), ("Concatenate", 2)]
+# operations = [("Left", 2), ("Right", 2), ("Concatenate", 2)]
+operations = [("Concatenate", 2)]
 
 def get_expression(op, *args):
 
@@ -33,7 +32,7 @@ def get_expression(op, *args):
             if args[1] >= len(args[0]):
                 return "ERROR"
 
-        temp = f"'{args[0]}'[{args[1]}]"
+        temp = f'\'{args[0]}\'[{args[1]}]'
         print("GOT THE LEFT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
         return temp
     
@@ -46,7 +45,8 @@ def get_expression(op, *args):
         if args[1] > len(args[0]): # use greater than here since indexing from the right starts at 1
                 return "ERROR"
 
-        temp = f"'{args[0]}'[-{args[1]}]"
+        # temp = f"'{args[0]}'[-{args[1]}]"
+        temp = f'\'{args[0]}\'[-{args[1]}]'
         print("GOT THE RIGHT OPERATION AND THE ARGUMENT IS: ", args[0], " AND THE RESULT IS: ", temp)
         return temp
 
@@ -56,7 +56,9 @@ def get_expression(op, *args):
         if type(args[0]) != str or type(args[1]) != str:
             return "ERROR"
 
-        temp = f"'{args[0]}'+'{args[1]}'"
+        # temp = f"'{args[0]}'+'{args[1]}'"
+        # temp = f'\'{args[0]}\'+\'{args[1]}\''
+        temp = f'{args[0]}+{args[1]}'
         print("GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE: ", args[0], " AND ", args[1], " AND THE RESULT IS: ", temp)
         return temp
 
@@ -70,20 +72,20 @@ def evaluate_expression(expr, input_mapping):
     for k, v in input_mapping.items():
         expr = expr.replace(k, str(v))
 
-    if input_mapping == {}:
-        print("INPUT MAPPING IS EMPTY")
-        if "[" in expr or "+" in expr:
-            print("testing....")
-            # print("Before wrapping in quotes: ", expr)
-            # expr = "\"" + expr + "\""
-            # print("After wrapping in quotes: ", expr)
-            ans = str(eval(expr))
-            print("ANSWER IS: ", ans)
-            print("CYAAAA")
-            return ans
-        ans = expr
-        print("ANSWER IS: ", ans)
-        return ans
+    # if input_mapping == {}:
+    #     print("INPUT MAPPING IS EMPTY")
+    #     # if "[" in expr or "+" in expr:
+    #         # print("testing....")
+    #         # print("Before wrapping in quotes: ", expr)
+    #         # expr = "\"" + expr + "\""
+    #         # print("After wrapping in quotes: ", expr)
+    #         # ans = str(eval(expr))
+    #         # print("ANSWER IS: ", ans)
+    #         # print("CYAAAA")
+    #         # return ans
+    #     ans = expr
+    #     print("ANSWER IS: ", ans)
+    #     return ans
         # expr = str(expr)
 
         # ex
@@ -97,15 +99,22 @@ def evaluate_expression(expr, input_mapping):
         # return temp
 
     try:
-        temp = str(eval(expr))
+        # temp = str(eval(expr))  --> # doesn't work ,need to wrap in double quotes
+        # temp = str(eval(str(expr))) # doesn't work ,need to wrap in double quotes
+        print("Original expr: ", expr)
+        expr2 = ["\'", expr, "\'"]
+        expr2 = "".join(expr2)
+        print("New expr: ", expr2)
+        # expr2 = "\" + expr + \""
+        temp = str(eval(expr2))
     except IndexError: # TODO: CAN ALSO ADD OTHER ERROR CHECKS HERE RELEVEANT TO STRING DSL MAYBE?
         print("GOT AN ERROR")
         return "ERROR"
 
-    print("SUCCESSFULLY EVALUTED EXPRESSION: ", expr, " RESULT WAS: ", temp)
+    print("SUCCESSFULLY EVALUTED EXPRESSION: ", expr2, " RESULT WAS: ", temp)
     return temp
 
-max_weight = 10 # this represents the actual term weight for our desired expression
+max_weight = 3 # this represents the actual term weight for our desired expression
 
 # Now, for each task's examples, run the synthesis process.
 for task_examples in string_input_output_examples:
@@ -256,31 +265,16 @@ for task_examples in string_input_output_examples:
                
                 # only consider adding the current expression if it has the correct number of results in curr_results (otherwise it errored out on at least 1 example, so its invalid) and if all results are correct
                 if all_correct and len(curr_results) == len(task_examples):
-                    # original formatting: still doesn't work for compound expressions
-                    # programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
+                    programs_found.append("This program works: " + expr + "for task: " + str(task_examples) + "with weight: " + str(w) + "\n")
                     # programs_found.append("We used this operation: " + operation + " and these arguments: " + str(arg_tuple) + "\n")
 
-                    # format option 2: doesn't work for compound expressions
-                    temp_args = []
-                    temp_list = list(arg_tuple)
-                    for my_arg in temp_list:
-                        trash_list.append(my_arg[1])
-
-                        actual_arg = my_arg[1]
-                        if type(actual_arg) == str and actual_arg[0] == "'":
-                            actual_arg = actual_arg[1:-1]
-                            temp_list2 = actual_arg.split("'")
-
-                            temp_string = f"Concatenate('{temp_list2[0]}', '{temp_list2[2]}')"
-                            # print("TEMP STRING IS: ", temp_string)
-                            # exit()
-
-                            temp_args.append(temp_string)
-
-                        else:
-                            temp_args.append(my_arg[1])
-                    temp_args = tuple(temp_args)
-                    programs_found.append(f"Solution: {operation}{temp_args}\n")
+                    # # format option 2: doesn't work for compound expressions
+                    # temp_args = []
+                    # temp_list = list(arg_tuple)
+                    # for my_arg in temp_list:
+                    #     temp_args.append(my_arg[1])
+                    # temp_args = tuple(temp_args)
+                    # programs_found.append(f"Solution: {operation}{temp_args}\n")
 
                 if len(programs_found) == len(string_input_output_examples):
                     print("=====================================")
@@ -288,7 +282,6 @@ for task_examples in string_input_output_examples:
                     for program in programs_found:
                         print(program)
                     print("DONE")
-                    print(trash_list)
                     exit()
 
 print("If we reached this point, we did not synthesize programs :(")

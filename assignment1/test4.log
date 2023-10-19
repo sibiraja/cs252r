@@ -1,0 +1,5311 @@
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['he', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  llo  AND THE RESULT IS:  he+llo
+We constructed a valid expression:  he+llo
+Evaluating expression:  he+llo
+Original expr:  he+llo
+New expr:  'he+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+llo'  RESULT WAS:  he+llo
+Evaluating expression:  he+llo
+Original expr:  he+llo
+New expr:  'he+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+llo'  RESULT WAS:  he+llo
+Evaluating expression:  he+llo
+Original expr:  he+llo
+New expr:  'he+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+llo'  RESULT WAS:  he+llo
+Evaluating expression:  he+llo
+Original expr:  he+llo
+New expr:  'he+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+llo'  RESULT WAS:  he+llo
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['he', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  w  AND THE RESULT IS:  he+w
+We constructed a valid expression:  he+w
+Evaluating expression:  he+w
+Original expr:  he+w
+New expr:  'he+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+w'  RESULT WAS:  he+w
+Evaluating expression:  he+w
+Original expr:  he+w
+New expr:  'he+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+w'  RESULT WAS:  he+w
+Evaluating expression:  he+w
+Original expr:  he+w
+New expr:  'he+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+w'  RESULT WAS:  he+w
+Evaluating expression:  he+w
+Original expr:  he+w
+New expr:  'he+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+w'  RESULT WAS:  he+w
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['he', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  orld  AND THE RESULT IS:  he+orld
+We constructed a valid expression:  he+orld
+Evaluating expression:  he+orld
+Original expr:  he+orld
+New expr:  'he+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+orld'  RESULT WAS:  he+orld
+Evaluating expression:  he+orld
+Original expr:  he+orld
+New expr:  'he+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+orld'  RESULT WAS:  he+orld
+Evaluating expression:  he+orld
+Original expr:  he+orld
+New expr:  'he+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+orld'  RESULT WAS:  he+orld
+Evaluating expression:  he+orld
+Original expr:  he+orld
+New expr:  'he+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+orld'  RESULT WAS:  he+orld
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['he', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  goodb  AND THE RESULT IS:  he+goodb
+We constructed a valid expression:  he+goodb
+Evaluating expression:  he+goodb
+Original expr:  he+goodb
+New expr:  'he+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+goodb'  RESULT WAS:  he+goodb
+Evaluating expression:  he+goodb
+Original expr:  he+goodb
+New expr:  'he+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+goodb'  RESULT WAS:  he+goodb
+Evaluating expression:  he+goodb
+Original expr:  he+goodb
+New expr:  'he+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+goodb'  RESULT WAS:  he+goodb
+Evaluating expression:  he+goodb
+Original expr:  he+goodb
+New expr:  'he+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+goodb'  RESULT WAS:  he+goodb
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['he', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  ye  AND THE RESULT IS:  he+ye
+We constructed a valid expression:  he+ye
+Evaluating expression:  he+ye
+Original expr:  he+ye
+New expr:  'he+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ye'  RESULT WAS:  he+ye
+Evaluating expression:  he+ye
+Original expr:  he+ye
+New expr:  'he+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ye'  RESULT WAS:  he+ye
+Evaluating expression:  he+ye
+Original expr:  he+ye
+New expr:  'he+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ye'  RESULT WAS:  he+ye
+Evaluating expression:  he+ye
+Original expr:  he+ye
+New expr:  'he+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ye'  RESULT WAS:  he+ye
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['he', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  bye  AND THE RESULT IS:  he+bye
+We constructed a valid expression:  he+bye
+Evaluating expression:  he+bye
+Original expr:  he+bye
+New expr:  'he+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+bye'  RESULT WAS:  he+bye
+Evaluating expression:  he+bye
+Original expr:  he+bye
+New expr:  'he+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+bye'  RESULT WAS:  he+bye
+Evaluating expression:  he+bye
+Original expr:  he+bye
+New expr:  'he+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+bye'  RESULT WAS:  he+bye
+Evaluating expression:  he+bye
+Original expr:  he+bye
+New expr:  'he+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+bye'  RESULT WAS:  he+bye
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['he', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND    AND THE RESULT IS:  he+
+We constructed a valid expression:  he+
+Evaluating expression:  he+
+Original expr:  he+
+New expr:  'he+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+'  RESULT WAS:  he+
+Evaluating expression:  he+
+Original expr:  he+
+New expr:  'he+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+'  RESULT WAS:  he+
+Evaluating expression:  he+
+Original expr:  he+
+New expr:  'he+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+'  RESULT WAS:  he+
+Evaluating expression:  he+
+Original expr:  he+
+New expr:  'he+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+'  RESULT WAS:  he+
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['he', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  x0  AND THE RESULT IS:  he+x0
+We constructed a valid expression:  he+x0
+Evaluating expression:  he+x0
+Original expr:  he+he
+New expr:  'he+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+he'  RESULT WAS:  he+he
+Evaluating expression:  he+x0
+Original expr:  he+w
+New expr:  'he+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+w'  RESULT WAS:  he+w
+Evaluating expression:  he+x0
+Original expr:  he+goodb
+New expr:  'he+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+goodb'  RESULT WAS:  he+goodb
+Evaluating expression:  he+x0
+Original expr:  he+bye
+New expr:  'he+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+bye'  RESULT WAS:  he+bye
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['he', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND  x1  AND THE RESULT IS:  he+x1
+We constructed a valid expression:  he+x1
+Evaluating expression:  he+x1
+Original expr:  he+llo
+New expr:  'he+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+llo'  RESULT WAS:  he+llo
+Evaluating expression:  he+x1
+Original expr:  he+orld
+New expr:  'he+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+orld'  RESULT WAS:  he+orld
+Evaluating expression:  he+x1
+Original expr:  he+ye
+New expr:  'he+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ye'  RESULT WAS:  he+ye
+Evaluating expression:  he+x1
+Original expr:  he+
+New expr:  'he+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+'  RESULT WAS:  he+
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 0)
+args_to_execute:  ['he', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 1)
+args_to_execute:  ['he', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 2)
+args_to_execute:  ['he', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 3)
+args_to_execute:  ['he', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 4)
+args_to_execute:  ['he', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 5)
+args_to_execute:  ['he', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 6)
+args_to_execute:  ['he', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 7)
+args_to_execute:  ['he', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 8)
+args_to_execute:  ['he', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', 9)
+args_to_execute:  ['he', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['he', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  he  AND     AND THE RESULT IS:  he+ 
+We constructed a valid expression:  he+ 
+Evaluating expression:  he+ 
+Original expr:  he+ 
+New expr:  'he+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ '  RESULT WAS:  he+ 
+Evaluating expression:  he+ 
+Original expr:  he+ 
+New expr:  'he+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ '  RESULT WAS:  he+ 
+Evaluating expression:  he+ 
+Original expr:  he+ 
+New expr:  'he+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ '  RESULT WAS:  he+ 
+Evaluating expression:  he+ 
+Original expr:  he+ 
+New expr:  'he+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ '  RESULT WAS:  he+ 
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['llo', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  he  AND THE RESULT IS:  llo+he
+We constructed a valid expression:  llo+he
+Evaluating expression:  llo+he
+Original expr:  llo+he
+New expr:  'llo+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+he'  RESULT WAS:  llo+he
+Evaluating expression:  llo+he
+Original expr:  llo+he
+New expr:  'llo+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+he'  RESULT WAS:  llo+he
+Evaluating expression:  llo+he
+Original expr:  llo+he
+New expr:  'llo+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+he'  RESULT WAS:  llo+he
+Evaluating expression:  llo+he
+Original expr:  llo+he
+New expr:  'llo+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+he'  RESULT WAS:  llo+he
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['llo', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  w  AND THE RESULT IS:  llo+w
+We constructed a valid expression:  llo+w
+Evaluating expression:  llo+w
+Original expr:  llo+w
+New expr:  'llo+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+w'  RESULT WAS:  llo+w
+Evaluating expression:  llo+w
+Original expr:  llo+w
+New expr:  'llo+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+w'  RESULT WAS:  llo+w
+Evaluating expression:  llo+w
+Original expr:  llo+w
+New expr:  'llo+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+w'  RESULT WAS:  llo+w
+Evaluating expression:  llo+w
+Original expr:  llo+w
+New expr:  'llo+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+w'  RESULT WAS:  llo+w
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['llo', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  orld  AND THE RESULT IS:  llo+orld
+We constructed a valid expression:  llo+orld
+Evaluating expression:  llo+orld
+Original expr:  llo+orld
+New expr:  'llo+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+orld'  RESULT WAS:  llo+orld
+Evaluating expression:  llo+orld
+Original expr:  llo+orld
+New expr:  'llo+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+orld'  RESULT WAS:  llo+orld
+Evaluating expression:  llo+orld
+Original expr:  llo+orld
+New expr:  'llo+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+orld'  RESULT WAS:  llo+orld
+Evaluating expression:  llo+orld
+Original expr:  llo+orld
+New expr:  'llo+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+orld'  RESULT WAS:  llo+orld
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['llo', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  goodb  AND THE RESULT IS:  llo+goodb
+We constructed a valid expression:  llo+goodb
+Evaluating expression:  llo+goodb
+Original expr:  llo+goodb
+New expr:  'llo+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+goodb'  RESULT WAS:  llo+goodb
+Evaluating expression:  llo+goodb
+Original expr:  llo+goodb
+New expr:  'llo+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+goodb'  RESULT WAS:  llo+goodb
+Evaluating expression:  llo+goodb
+Original expr:  llo+goodb
+New expr:  'llo+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+goodb'  RESULT WAS:  llo+goodb
+Evaluating expression:  llo+goodb
+Original expr:  llo+goodb
+New expr:  'llo+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+goodb'  RESULT WAS:  llo+goodb
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['llo', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  ye  AND THE RESULT IS:  llo+ye
+We constructed a valid expression:  llo+ye
+Evaluating expression:  llo+ye
+Original expr:  llo+ye
+New expr:  'llo+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ye'  RESULT WAS:  llo+ye
+Evaluating expression:  llo+ye
+Original expr:  llo+ye
+New expr:  'llo+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ye'  RESULT WAS:  llo+ye
+Evaluating expression:  llo+ye
+Original expr:  llo+ye
+New expr:  'llo+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ye'  RESULT WAS:  llo+ye
+Evaluating expression:  llo+ye
+Original expr:  llo+ye
+New expr:  'llo+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ye'  RESULT WAS:  llo+ye
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['llo', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  bye  AND THE RESULT IS:  llo+bye
+We constructed a valid expression:  llo+bye
+Evaluating expression:  llo+bye
+Original expr:  llo+bye
+New expr:  'llo+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+bye'  RESULT WAS:  llo+bye
+Evaluating expression:  llo+bye
+Original expr:  llo+bye
+New expr:  'llo+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+bye'  RESULT WAS:  llo+bye
+Evaluating expression:  llo+bye
+Original expr:  llo+bye
+New expr:  'llo+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+bye'  RESULT WAS:  llo+bye
+Evaluating expression:  llo+bye
+Original expr:  llo+bye
+New expr:  'llo+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+bye'  RESULT WAS:  llo+bye
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['llo', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND    AND THE RESULT IS:  llo+
+We constructed a valid expression:  llo+
+Evaluating expression:  llo+
+Original expr:  llo+
+New expr:  'llo+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+'  RESULT WAS:  llo+
+Evaluating expression:  llo+
+Original expr:  llo+
+New expr:  'llo+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+'  RESULT WAS:  llo+
+Evaluating expression:  llo+
+Original expr:  llo+
+New expr:  'llo+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+'  RESULT WAS:  llo+
+Evaluating expression:  llo+
+Original expr:  llo+
+New expr:  'llo+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+'  RESULT WAS:  llo+
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['llo', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  x0  AND THE RESULT IS:  llo+x0
+We constructed a valid expression:  llo+x0
+Evaluating expression:  llo+x0
+Original expr:  llo+he
+New expr:  'llo+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+he'  RESULT WAS:  llo+he
+Evaluating expression:  llo+x0
+Original expr:  llo+w
+New expr:  'llo+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+w'  RESULT WAS:  llo+w
+Evaluating expression:  llo+x0
+Original expr:  llo+goodb
+New expr:  'llo+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+goodb'  RESULT WAS:  llo+goodb
+Evaluating expression:  llo+x0
+Original expr:  llo+bye
+New expr:  'llo+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+bye'  RESULT WAS:  llo+bye
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['llo', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND  x1  AND THE RESULT IS:  llo+x1
+We constructed a valid expression:  llo+x1
+Evaluating expression:  llo+x1
+Original expr:  llo+llo
+New expr:  'llo+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+llo'  RESULT WAS:  llo+llo
+Evaluating expression:  llo+x1
+Original expr:  llo+orld
+New expr:  'llo+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+orld'  RESULT WAS:  llo+orld
+Evaluating expression:  llo+x1
+Original expr:  llo+ye
+New expr:  'llo+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ye'  RESULT WAS:  llo+ye
+Evaluating expression:  llo+x1
+Original expr:  llo+
+New expr:  'llo+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+'  RESULT WAS:  llo+
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 0)
+args_to_execute:  ['llo', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 1)
+args_to_execute:  ['llo', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 2)
+args_to_execute:  ['llo', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 3)
+args_to_execute:  ['llo', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 4)
+args_to_execute:  ['llo', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 5)
+args_to_execute:  ['llo', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 6)
+args_to_execute:  ['llo', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 7)
+args_to_execute:  ['llo', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 8)
+args_to_execute:  ['llo', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', 9)
+args_to_execute:  ['llo', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['llo', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  llo  AND     AND THE RESULT IS:  llo+ 
+We constructed a valid expression:  llo+ 
+Evaluating expression:  llo+ 
+Original expr:  llo+ 
+New expr:  'llo+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ '  RESULT WAS:  llo+ 
+Evaluating expression:  llo+ 
+Original expr:  llo+ 
+New expr:  'llo+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ '  RESULT WAS:  llo+ 
+Evaluating expression:  llo+ 
+Original expr:  llo+ 
+New expr:  'llo+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ '  RESULT WAS:  llo+ 
+Evaluating expression:  llo+ 
+Original expr:  llo+ 
+New expr:  'llo+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ '  RESULT WAS:  llo+ 
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['w', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  he  AND THE RESULT IS:  w+he
+We constructed a valid expression:  w+he
+Evaluating expression:  w+he
+Original expr:  w+he
+New expr:  'w+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+he'  RESULT WAS:  w+he
+Evaluating expression:  w+he
+Original expr:  w+he
+New expr:  'w+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+he'  RESULT WAS:  w+he
+Evaluating expression:  w+he
+Original expr:  w+he
+New expr:  'w+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+he'  RESULT WAS:  w+he
+Evaluating expression:  w+he
+Original expr:  w+he
+New expr:  'w+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+he'  RESULT WAS:  w+he
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['w', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  llo  AND THE RESULT IS:  w+llo
+We constructed a valid expression:  w+llo
+Evaluating expression:  w+llo
+Original expr:  w+llo
+New expr:  'w+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+llo'  RESULT WAS:  w+llo
+Evaluating expression:  w+llo
+Original expr:  w+llo
+New expr:  'w+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+llo'  RESULT WAS:  w+llo
+Evaluating expression:  w+llo
+Original expr:  w+llo
+New expr:  'w+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+llo'  RESULT WAS:  w+llo
+Evaluating expression:  w+llo
+Original expr:  w+llo
+New expr:  'w+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+llo'  RESULT WAS:  w+llo
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['w', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  orld  AND THE RESULT IS:  w+orld
+We constructed a valid expression:  w+orld
+Evaluating expression:  w+orld
+Original expr:  w+orld
+New expr:  'w+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+orld'  RESULT WAS:  w+orld
+Evaluating expression:  w+orld
+Original expr:  w+orld
+New expr:  'w+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+orld'  RESULT WAS:  w+orld
+Evaluating expression:  w+orld
+Original expr:  w+orld
+New expr:  'w+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+orld'  RESULT WAS:  w+orld
+Evaluating expression:  w+orld
+Original expr:  w+orld
+New expr:  'w+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+orld'  RESULT WAS:  w+orld
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['w', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  goodb  AND THE RESULT IS:  w+goodb
+We constructed a valid expression:  w+goodb
+Evaluating expression:  w+goodb
+Original expr:  w+goodb
+New expr:  'w+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+goodb'  RESULT WAS:  w+goodb
+Evaluating expression:  w+goodb
+Original expr:  w+goodb
+New expr:  'w+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+goodb'  RESULT WAS:  w+goodb
+Evaluating expression:  w+goodb
+Original expr:  w+goodb
+New expr:  'w+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+goodb'  RESULT WAS:  w+goodb
+Evaluating expression:  w+goodb
+Original expr:  w+goodb
+New expr:  'w+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+goodb'  RESULT WAS:  w+goodb
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['w', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  ye  AND THE RESULT IS:  w+ye
+We constructed a valid expression:  w+ye
+Evaluating expression:  w+ye
+Original expr:  w+ye
+New expr:  'w+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ye'  RESULT WAS:  w+ye
+Evaluating expression:  w+ye
+Original expr:  w+ye
+New expr:  'w+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ye'  RESULT WAS:  w+ye
+Evaluating expression:  w+ye
+Original expr:  w+ye
+New expr:  'w+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ye'  RESULT WAS:  w+ye
+Evaluating expression:  w+ye
+Original expr:  w+ye
+New expr:  'w+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ye'  RESULT WAS:  w+ye
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['w', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  bye  AND THE RESULT IS:  w+bye
+We constructed a valid expression:  w+bye
+Evaluating expression:  w+bye
+Original expr:  w+bye
+New expr:  'w+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+bye'  RESULT WAS:  w+bye
+Evaluating expression:  w+bye
+Original expr:  w+bye
+New expr:  'w+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+bye'  RESULT WAS:  w+bye
+Evaluating expression:  w+bye
+Original expr:  w+bye
+New expr:  'w+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+bye'  RESULT WAS:  w+bye
+Evaluating expression:  w+bye
+Original expr:  w+bye
+New expr:  'w+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+bye'  RESULT WAS:  w+bye
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['w', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND    AND THE RESULT IS:  w+
+We constructed a valid expression:  w+
+Evaluating expression:  w+
+Original expr:  w+
+New expr:  'w+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+'  RESULT WAS:  w+
+Evaluating expression:  w+
+Original expr:  w+
+New expr:  'w+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+'  RESULT WAS:  w+
+Evaluating expression:  w+
+Original expr:  w+
+New expr:  'w+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+'  RESULT WAS:  w+
+Evaluating expression:  w+
+Original expr:  w+
+New expr:  'w+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+'  RESULT WAS:  w+
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['w', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  x0  AND THE RESULT IS:  w+x0
+We constructed a valid expression:  w+x0
+Evaluating expression:  w+x0
+Original expr:  w+he
+New expr:  'w+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+he'  RESULT WAS:  w+he
+Evaluating expression:  w+x0
+Original expr:  w+w
+New expr:  'w+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+w'  RESULT WAS:  w+w
+Evaluating expression:  w+x0
+Original expr:  w+goodb
+New expr:  'w+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+goodb'  RESULT WAS:  w+goodb
+Evaluating expression:  w+x0
+Original expr:  w+bye
+New expr:  'w+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+bye'  RESULT WAS:  w+bye
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['w', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND  x1  AND THE RESULT IS:  w+x1
+We constructed a valid expression:  w+x1
+Evaluating expression:  w+x1
+Original expr:  w+llo
+New expr:  'w+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+llo'  RESULT WAS:  w+llo
+Evaluating expression:  w+x1
+Original expr:  w+orld
+New expr:  'w+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+orld'  RESULT WAS:  w+orld
+Evaluating expression:  w+x1
+Original expr:  w+ye
+New expr:  'w+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ye'  RESULT WAS:  w+ye
+Evaluating expression:  w+x1
+Original expr:  w+
+New expr:  'w+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+'  RESULT WAS:  w+
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 0)
+args_to_execute:  ['w', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 1)
+args_to_execute:  ['w', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 2)
+args_to_execute:  ['w', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 3)
+args_to_execute:  ['w', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 4)
+args_to_execute:  ['w', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 5)
+args_to_execute:  ['w', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 6)
+args_to_execute:  ['w', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 7)
+args_to_execute:  ['w', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 8)
+args_to_execute:  ['w', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', 9)
+args_to_execute:  ['w', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['w', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  w  AND     AND THE RESULT IS:  w+ 
+We constructed a valid expression:  w+ 
+Evaluating expression:  w+ 
+Original expr:  w+ 
+New expr:  'w+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ '  RESULT WAS:  w+ 
+Evaluating expression:  w+ 
+Original expr:  w+ 
+New expr:  'w+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ '  RESULT WAS:  w+ 
+Evaluating expression:  w+ 
+Original expr:  w+ 
+New expr:  'w+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ '  RESULT WAS:  w+ 
+Evaluating expression:  w+ 
+Original expr:  w+ 
+New expr:  'w+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ '  RESULT WAS:  w+ 
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['orld', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  he  AND THE RESULT IS:  orld+he
+We constructed a valid expression:  orld+he
+Evaluating expression:  orld+he
+Original expr:  orld+he
+New expr:  'orld+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+he'  RESULT WAS:  orld+he
+Evaluating expression:  orld+he
+Original expr:  orld+he
+New expr:  'orld+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+he'  RESULT WAS:  orld+he
+Evaluating expression:  orld+he
+Original expr:  orld+he
+New expr:  'orld+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+he'  RESULT WAS:  orld+he
+Evaluating expression:  orld+he
+Original expr:  orld+he
+New expr:  'orld+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+he'  RESULT WAS:  orld+he
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['orld', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  llo  AND THE RESULT IS:  orld+llo
+We constructed a valid expression:  orld+llo
+Evaluating expression:  orld+llo
+Original expr:  orld+llo
+New expr:  'orld+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+llo'  RESULT WAS:  orld+llo
+Evaluating expression:  orld+llo
+Original expr:  orld+llo
+New expr:  'orld+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+llo'  RESULT WAS:  orld+llo
+Evaluating expression:  orld+llo
+Original expr:  orld+llo
+New expr:  'orld+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+llo'  RESULT WAS:  orld+llo
+Evaluating expression:  orld+llo
+Original expr:  orld+llo
+New expr:  'orld+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+llo'  RESULT WAS:  orld+llo
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['orld', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  w  AND THE RESULT IS:  orld+w
+We constructed a valid expression:  orld+w
+Evaluating expression:  orld+w
+Original expr:  orld+w
+New expr:  'orld+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+w'  RESULT WAS:  orld+w
+Evaluating expression:  orld+w
+Original expr:  orld+w
+New expr:  'orld+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+w'  RESULT WAS:  orld+w
+Evaluating expression:  orld+w
+Original expr:  orld+w
+New expr:  'orld+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+w'  RESULT WAS:  orld+w
+Evaluating expression:  orld+w
+Original expr:  orld+w
+New expr:  'orld+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+w'  RESULT WAS:  orld+w
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['orld', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  goodb  AND THE RESULT IS:  orld+goodb
+We constructed a valid expression:  orld+goodb
+Evaluating expression:  orld+goodb
+Original expr:  orld+goodb
+New expr:  'orld+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+goodb'  RESULT WAS:  orld+goodb
+Evaluating expression:  orld+goodb
+Original expr:  orld+goodb
+New expr:  'orld+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+goodb'  RESULT WAS:  orld+goodb
+Evaluating expression:  orld+goodb
+Original expr:  orld+goodb
+New expr:  'orld+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+goodb'  RESULT WAS:  orld+goodb
+Evaluating expression:  orld+goodb
+Original expr:  orld+goodb
+New expr:  'orld+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+goodb'  RESULT WAS:  orld+goodb
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['orld', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  ye  AND THE RESULT IS:  orld+ye
+We constructed a valid expression:  orld+ye
+Evaluating expression:  orld+ye
+Original expr:  orld+ye
+New expr:  'orld+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ye'  RESULT WAS:  orld+ye
+Evaluating expression:  orld+ye
+Original expr:  orld+ye
+New expr:  'orld+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ye'  RESULT WAS:  orld+ye
+Evaluating expression:  orld+ye
+Original expr:  orld+ye
+New expr:  'orld+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ye'  RESULT WAS:  orld+ye
+Evaluating expression:  orld+ye
+Original expr:  orld+ye
+New expr:  'orld+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ye'  RESULT WAS:  orld+ye
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['orld', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  bye  AND THE RESULT IS:  orld+bye
+We constructed a valid expression:  orld+bye
+Evaluating expression:  orld+bye
+Original expr:  orld+bye
+New expr:  'orld+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+bye'  RESULT WAS:  orld+bye
+Evaluating expression:  orld+bye
+Original expr:  orld+bye
+New expr:  'orld+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+bye'  RESULT WAS:  orld+bye
+Evaluating expression:  orld+bye
+Original expr:  orld+bye
+New expr:  'orld+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+bye'  RESULT WAS:  orld+bye
+Evaluating expression:  orld+bye
+Original expr:  orld+bye
+New expr:  'orld+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+bye'  RESULT WAS:  orld+bye
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['orld', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND    AND THE RESULT IS:  orld+
+We constructed a valid expression:  orld+
+Evaluating expression:  orld+
+Original expr:  orld+
+New expr:  'orld+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+'  RESULT WAS:  orld+
+Evaluating expression:  orld+
+Original expr:  orld+
+New expr:  'orld+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+'  RESULT WAS:  orld+
+Evaluating expression:  orld+
+Original expr:  orld+
+New expr:  'orld+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+'  RESULT WAS:  orld+
+Evaluating expression:  orld+
+Original expr:  orld+
+New expr:  'orld+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+'  RESULT WAS:  orld+
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['orld', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  x0  AND THE RESULT IS:  orld+x0
+We constructed a valid expression:  orld+x0
+Evaluating expression:  orld+x0
+Original expr:  orld+he
+New expr:  'orld+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+he'  RESULT WAS:  orld+he
+Evaluating expression:  orld+x0
+Original expr:  orld+w
+New expr:  'orld+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+w'  RESULT WAS:  orld+w
+Evaluating expression:  orld+x0
+Original expr:  orld+goodb
+New expr:  'orld+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+goodb'  RESULT WAS:  orld+goodb
+Evaluating expression:  orld+x0
+Original expr:  orld+bye
+New expr:  'orld+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+bye'  RESULT WAS:  orld+bye
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['orld', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND  x1  AND THE RESULT IS:  orld+x1
+We constructed a valid expression:  orld+x1
+Evaluating expression:  orld+x1
+Original expr:  orld+llo
+New expr:  'orld+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+llo'  RESULT WAS:  orld+llo
+Evaluating expression:  orld+x1
+Original expr:  orld+orld
+New expr:  'orld+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+orld'  RESULT WAS:  orld+orld
+Evaluating expression:  orld+x1
+Original expr:  orld+ye
+New expr:  'orld+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ye'  RESULT WAS:  orld+ye
+Evaluating expression:  orld+x1
+Original expr:  orld+
+New expr:  'orld+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+'  RESULT WAS:  orld+
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 0)
+args_to_execute:  ['orld', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 1)
+args_to_execute:  ['orld', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 2)
+args_to_execute:  ['orld', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 3)
+args_to_execute:  ['orld', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 4)
+args_to_execute:  ['orld', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 5)
+args_to_execute:  ['orld', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 6)
+args_to_execute:  ['orld', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 7)
+args_to_execute:  ['orld', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 8)
+args_to_execute:  ['orld', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', 9)
+args_to_execute:  ['orld', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['orld', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  orld  AND     AND THE RESULT IS:  orld+ 
+We constructed a valid expression:  orld+ 
+Evaluating expression:  orld+ 
+Original expr:  orld+ 
+New expr:  'orld+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ '  RESULT WAS:  orld+ 
+Evaluating expression:  orld+ 
+Original expr:  orld+ 
+New expr:  'orld+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ '  RESULT WAS:  orld+ 
+Evaluating expression:  orld+ 
+Original expr:  orld+ 
+New expr:  'orld+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ '  RESULT WAS:  orld+ 
+Evaluating expression:  orld+ 
+Original expr:  orld+ 
+New expr:  'orld+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ '  RESULT WAS:  orld+ 
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['goodb', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  he  AND THE RESULT IS:  goodb+he
+We constructed a valid expression:  goodb+he
+Evaluating expression:  goodb+he
+Original expr:  goodb+he
+New expr:  'goodb+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+he'  RESULT WAS:  goodb+he
+Evaluating expression:  goodb+he
+Original expr:  goodb+he
+New expr:  'goodb+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+he'  RESULT WAS:  goodb+he
+Evaluating expression:  goodb+he
+Original expr:  goodb+he
+New expr:  'goodb+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+he'  RESULT WAS:  goodb+he
+Evaluating expression:  goodb+he
+Original expr:  goodb+he
+New expr:  'goodb+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+he'  RESULT WAS:  goodb+he
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['goodb', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  llo  AND THE RESULT IS:  goodb+llo
+We constructed a valid expression:  goodb+llo
+Evaluating expression:  goodb+llo
+Original expr:  goodb+llo
+New expr:  'goodb+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+llo'  RESULT WAS:  goodb+llo
+Evaluating expression:  goodb+llo
+Original expr:  goodb+llo
+New expr:  'goodb+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+llo'  RESULT WAS:  goodb+llo
+Evaluating expression:  goodb+llo
+Original expr:  goodb+llo
+New expr:  'goodb+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+llo'  RESULT WAS:  goodb+llo
+Evaluating expression:  goodb+llo
+Original expr:  goodb+llo
+New expr:  'goodb+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+llo'  RESULT WAS:  goodb+llo
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['goodb', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  w  AND THE RESULT IS:  goodb+w
+We constructed a valid expression:  goodb+w
+Evaluating expression:  goodb+w
+Original expr:  goodb+w
+New expr:  'goodb+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+w'  RESULT WAS:  goodb+w
+Evaluating expression:  goodb+w
+Original expr:  goodb+w
+New expr:  'goodb+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+w'  RESULT WAS:  goodb+w
+Evaluating expression:  goodb+w
+Original expr:  goodb+w
+New expr:  'goodb+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+w'  RESULT WAS:  goodb+w
+Evaluating expression:  goodb+w
+Original expr:  goodb+w
+New expr:  'goodb+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+w'  RESULT WAS:  goodb+w
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['goodb', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  orld  AND THE RESULT IS:  goodb+orld
+We constructed a valid expression:  goodb+orld
+Evaluating expression:  goodb+orld
+Original expr:  goodb+orld
+New expr:  'goodb+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+orld'  RESULT WAS:  goodb+orld
+Evaluating expression:  goodb+orld
+Original expr:  goodb+orld
+New expr:  'goodb+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+orld'  RESULT WAS:  goodb+orld
+Evaluating expression:  goodb+orld
+Original expr:  goodb+orld
+New expr:  'goodb+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+orld'  RESULT WAS:  goodb+orld
+Evaluating expression:  goodb+orld
+Original expr:  goodb+orld
+New expr:  'goodb+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+orld'  RESULT WAS:  goodb+orld
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['goodb', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  ye  AND THE RESULT IS:  goodb+ye
+We constructed a valid expression:  goodb+ye
+Evaluating expression:  goodb+ye
+Original expr:  goodb+ye
+New expr:  'goodb+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ye'  RESULT WAS:  goodb+ye
+Evaluating expression:  goodb+ye
+Original expr:  goodb+ye
+New expr:  'goodb+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ye'  RESULT WAS:  goodb+ye
+Evaluating expression:  goodb+ye
+Original expr:  goodb+ye
+New expr:  'goodb+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ye'  RESULT WAS:  goodb+ye
+Evaluating expression:  goodb+ye
+Original expr:  goodb+ye
+New expr:  'goodb+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ye'  RESULT WAS:  goodb+ye
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['goodb', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  bye  AND THE RESULT IS:  goodb+bye
+We constructed a valid expression:  goodb+bye
+Evaluating expression:  goodb+bye
+Original expr:  goodb+bye
+New expr:  'goodb+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+bye'  RESULT WAS:  goodb+bye
+Evaluating expression:  goodb+bye
+Original expr:  goodb+bye
+New expr:  'goodb+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+bye'  RESULT WAS:  goodb+bye
+Evaluating expression:  goodb+bye
+Original expr:  goodb+bye
+New expr:  'goodb+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+bye'  RESULT WAS:  goodb+bye
+Evaluating expression:  goodb+bye
+Original expr:  goodb+bye
+New expr:  'goodb+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+bye'  RESULT WAS:  goodb+bye
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['goodb', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND    AND THE RESULT IS:  goodb+
+We constructed a valid expression:  goodb+
+Evaluating expression:  goodb+
+Original expr:  goodb+
+New expr:  'goodb+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+'  RESULT WAS:  goodb+
+Evaluating expression:  goodb+
+Original expr:  goodb+
+New expr:  'goodb+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+'  RESULT WAS:  goodb+
+Evaluating expression:  goodb+
+Original expr:  goodb+
+New expr:  'goodb+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+'  RESULT WAS:  goodb+
+Evaluating expression:  goodb+
+Original expr:  goodb+
+New expr:  'goodb+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+'  RESULT WAS:  goodb+
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['goodb', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  x0  AND THE RESULT IS:  goodb+x0
+We constructed a valid expression:  goodb+x0
+Evaluating expression:  goodb+x0
+Original expr:  goodb+he
+New expr:  'goodb+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+he'  RESULT WAS:  goodb+he
+Evaluating expression:  goodb+x0
+Original expr:  goodb+w
+New expr:  'goodb+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+w'  RESULT WAS:  goodb+w
+Evaluating expression:  goodb+x0
+Original expr:  goodb+goodb
+New expr:  'goodb+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+goodb'  RESULT WAS:  goodb+goodb
+Evaluating expression:  goodb+x0
+Original expr:  goodb+bye
+New expr:  'goodb+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+bye'  RESULT WAS:  goodb+bye
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['goodb', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND  x1  AND THE RESULT IS:  goodb+x1
+We constructed a valid expression:  goodb+x1
+Evaluating expression:  goodb+x1
+Original expr:  goodb+llo
+New expr:  'goodb+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+llo'  RESULT WAS:  goodb+llo
+Evaluating expression:  goodb+x1
+Original expr:  goodb+orld
+New expr:  'goodb+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+orld'  RESULT WAS:  goodb+orld
+Evaluating expression:  goodb+x1
+Original expr:  goodb+ye
+New expr:  'goodb+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ye'  RESULT WAS:  goodb+ye
+Evaluating expression:  goodb+x1
+Original expr:  goodb+
+New expr:  'goodb+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+'  RESULT WAS:  goodb+
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 0)
+args_to_execute:  ['goodb', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 1)
+args_to_execute:  ['goodb', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 2)
+args_to_execute:  ['goodb', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 3)
+args_to_execute:  ['goodb', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 4)
+args_to_execute:  ['goodb', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 5)
+args_to_execute:  ['goodb', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 6)
+args_to_execute:  ['goodb', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 7)
+args_to_execute:  ['goodb', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 8)
+args_to_execute:  ['goodb', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', 9)
+args_to_execute:  ['goodb', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['goodb', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  goodb  AND     AND THE RESULT IS:  goodb+ 
+We constructed a valid expression:  goodb+ 
+Evaluating expression:  goodb+ 
+Original expr:  goodb+ 
+New expr:  'goodb+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ '  RESULT WAS:  goodb+ 
+Evaluating expression:  goodb+ 
+Original expr:  goodb+ 
+New expr:  'goodb+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ '  RESULT WAS:  goodb+ 
+Evaluating expression:  goodb+ 
+Original expr:  goodb+ 
+New expr:  'goodb+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ '  RESULT WAS:  goodb+ 
+Evaluating expression:  goodb+ 
+Original expr:  goodb+ 
+New expr:  'goodb+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ '  RESULT WAS:  goodb+ 
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['ye', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  he  AND THE RESULT IS:  ye+he
+We constructed a valid expression:  ye+he
+Evaluating expression:  ye+he
+Original expr:  ye+he
+New expr:  'ye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+he'  RESULT WAS:  ye+he
+Evaluating expression:  ye+he
+Original expr:  ye+he
+New expr:  'ye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+he'  RESULT WAS:  ye+he
+Evaluating expression:  ye+he
+Original expr:  ye+he
+New expr:  'ye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+he'  RESULT WAS:  ye+he
+Evaluating expression:  ye+he
+Original expr:  ye+he
+New expr:  'ye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+he'  RESULT WAS:  ye+he
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['ye', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  llo  AND THE RESULT IS:  ye+llo
+We constructed a valid expression:  ye+llo
+Evaluating expression:  ye+llo
+Original expr:  ye+llo
+New expr:  'ye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+llo'  RESULT WAS:  ye+llo
+Evaluating expression:  ye+llo
+Original expr:  ye+llo
+New expr:  'ye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+llo'  RESULT WAS:  ye+llo
+Evaluating expression:  ye+llo
+Original expr:  ye+llo
+New expr:  'ye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+llo'  RESULT WAS:  ye+llo
+Evaluating expression:  ye+llo
+Original expr:  ye+llo
+New expr:  'ye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+llo'  RESULT WAS:  ye+llo
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['ye', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  w  AND THE RESULT IS:  ye+w
+We constructed a valid expression:  ye+w
+Evaluating expression:  ye+w
+Original expr:  ye+w
+New expr:  'ye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+w'  RESULT WAS:  ye+w
+Evaluating expression:  ye+w
+Original expr:  ye+w
+New expr:  'ye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+w'  RESULT WAS:  ye+w
+Evaluating expression:  ye+w
+Original expr:  ye+w
+New expr:  'ye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+w'  RESULT WAS:  ye+w
+Evaluating expression:  ye+w
+Original expr:  ye+w
+New expr:  'ye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+w'  RESULT WAS:  ye+w
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['ye', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  orld  AND THE RESULT IS:  ye+orld
+We constructed a valid expression:  ye+orld
+Evaluating expression:  ye+orld
+Original expr:  ye+orld
+New expr:  'ye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+orld'  RESULT WAS:  ye+orld
+Evaluating expression:  ye+orld
+Original expr:  ye+orld
+New expr:  'ye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+orld'  RESULT WAS:  ye+orld
+Evaluating expression:  ye+orld
+Original expr:  ye+orld
+New expr:  'ye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+orld'  RESULT WAS:  ye+orld
+Evaluating expression:  ye+orld
+Original expr:  ye+orld
+New expr:  'ye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+orld'  RESULT WAS:  ye+orld
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['ye', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  goodb  AND THE RESULT IS:  ye+goodb
+We constructed a valid expression:  ye+goodb
+Evaluating expression:  ye+goodb
+Original expr:  ye+goodb
+New expr:  'ye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+goodb'  RESULT WAS:  ye+goodb
+Evaluating expression:  ye+goodb
+Original expr:  ye+goodb
+New expr:  'ye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+goodb'  RESULT WAS:  ye+goodb
+Evaluating expression:  ye+goodb
+Original expr:  ye+goodb
+New expr:  'ye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+goodb'  RESULT WAS:  ye+goodb
+Evaluating expression:  ye+goodb
+Original expr:  ye+goodb
+New expr:  'ye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+goodb'  RESULT WAS:  ye+goodb
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['ye', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  bye  AND THE RESULT IS:  ye+bye
+We constructed a valid expression:  ye+bye
+Evaluating expression:  ye+bye
+Original expr:  ye+bye
+New expr:  'ye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+bye'  RESULT WAS:  ye+bye
+Evaluating expression:  ye+bye
+Original expr:  ye+bye
+New expr:  'ye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+bye'  RESULT WAS:  ye+bye
+Evaluating expression:  ye+bye
+Original expr:  ye+bye
+New expr:  'ye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+bye'  RESULT WAS:  ye+bye
+Evaluating expression:  ye+bye
+Original expr:  ye+bye
+New expr:  'ye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+bye'  RESULT WAS:  ye+bye
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['ye', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND    AND THE RESULT IS:  ye+
+We constructed a valid expression:  ye+
+Evaluating expression:  ye+
+Original expr:  ye+
+New expr:  'ye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+'  RESULT WAS:  ye+
+Evaluating expression:  ye+
+Original expr:  ye+
+New expr:  'ye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+'  RESULT WAS:  ye+
+Evaluating expression:  ye+
+Original expr:  ye+
+New expr:  'ye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+'  RESULT WAS:  ye+
+Evaluating expression:  ye+
+Original expr:  ye+
+New expr:  'ye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+'  RESULT WAS:  ye+
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['ye', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  x0  AND THE RESULT IS:  ye+x0
+We constructed a valid expression:  ye+x0
+Evaluating expression:  ye+x0
+Original expr:  ye+he
+New expr:  'ye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+he'  RESULT WAS:  ye+he
+Evaluating expression:  ye+x0
+Original expr:  ye+w
+New expr:  'ye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+w'  RESULT WAS:  ye+w
+Evaluating expression:  ye+x0
+Original expr:  ye+goodb
+New expr:  'ye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+goodb'  RESULT WAS:  ye+goodb
+Evaluating expression:  ye+x0
+Original expr:  ye+bye
+New expr:  'ye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+bye'  RESULT WAS:  ye+bye
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['ye', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND  x1  AND THE RESULT IS:  ye+x1
+We constructed a valid expression:  ye+x1
+Evaluating expression:  ye+x1
+Original expr:  ye+llo
+New expr:  'ye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+llo'  RESULT WAS:  ye+llo
+Evaluating expression:  ye+x1
+Original expr:  ye+orld
+New expr:  'ye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+orld'  RESULT WAS:  ye+orld
+Evaluating expression:  ye+x1
+Original expr:  ye+ye
+New expr:  'ye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+ye'  RESULT WAS:  ye+ye
+Evaluating expression:  ye+x1
+Original expr:  ye+
+New expr:  'ye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+'  RESULT WAS:  ye+
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 0)
+args_to_execute:  ['ye', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 1)
+args_to_execute:  ['ye', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 2)
+args_to_execute:  ['ye', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 3)
+args_to_execute:  ['ye', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 4)
+args_to_execute:  ['ye', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 5)
+args_to_execute:  ['ye', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 6)
+args_to_execute:  ['ye', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 7)
+args_to_execute:  ['ye', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 8)
+args_to_execute:  ['ye', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', 9)
+args_to_execute:  ['ye', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['ye', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  ye  AND     AND THE RESULT IS:  ye+ 
+We constructed a valid expression:  ye+ 
+Evaluating expression:  ye+ 
+Original expr:  ye+ 
+New expr:  'ye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+ '  RESULT WAS:  ye+ 
+Evaluating expression:  ye+ 
+Original expr:  ye+ 
+New expr:  'ye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+ '  RESULT WAS:  ye+ 
+Evaluating expression:  ye+ 
+Original expr:  ye+ 
+New expr:  'ye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+ '  RESULT WAS:  ye+ 
+Evaluating expression:  ye+ 
+Original expr:  ye+ 
+New expr:  'ye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+ '  RESULT WAS:  ye+ 
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['bye', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  he  AND THE RESULT IS:  bye+he
+We constructed a valid expression:  bye+he
+Evaluating expression:  bye+he
+Original expr:  bye+he
+New expr:  'bye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+he'  RESULT WAS:  bye+he
+Evaluating expression:  bye+he
+Original expr:  bye+he
+New expr:  'bye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+he'  RESULT WAS:  bye+he
+Evaluating expression:  bye+he
+Original expr:  bye+he
+New expr:  'bye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+he'  RESULT WAS:  bye+he
+Evaluating expression:  bye+he
+Original expr:  bye+he
+New expr:  'bye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+he'  RESULT WAS:  bye+he
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['bye', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  llo  AND THE RESULT IS:  bye+llo
+We constructed a valid expression:  bye+llo
+Evaluating expression:  bye+llo
+Original expr:  bye+llo
+New expr:  'bye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+llo'  RESULT WAS:  bye+llo
+Evaluating expression:  bye+llo
+Original expr:  bye+llo
+New expr:  'bye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+llo'  RESULT WAS:  bye+llo
+Evaluating expression:  bye+llo
+Original expr:  bye+llo
+New expr:  'bye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+llo'  RESULT WAS:  bye+llo
+Evaluating expression:  bye+llo
+Original expr:  bye+llo
+New expr:  'bye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+llo'  RESULT WAS:  bye+llo
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['bye', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  w  AND THE RESULT IS:  bye+w
+We constructed a valid expression:  bye+w
+Evaluating expression:  bye+w
+Original expr:  bye+w
+New expr:  'bye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+w'  RESULT WAS:  bye+w
+Evaluating expression:  bye+w
+Original expr:  bye+w
+New expr:  'bye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+w'  RESULT WAS:  bye+w
+Evaluating expression:  bye+w
+Original expr:  bye+w
+New expr:  'bye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+w'  RESULT WAS:  bye+w
+Evaluating expression:  bye+w
+Original expr:  bye+w
+New expr:  'bye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+w'  RESULT WAS:  bye+w
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['bye', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  orld  AND THE RESULT IS:  bye+orld
+We constructed a valid expression:  bye+orld
+Evaluating expression:  bye+orld
+Original expr:  bye+orld
+New expr:  'bye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+orld'  RESULT WAS:  bye+orld
+Evaluating expression:  bye+orld
+Original expr:  bye+orld
+New expr:  'bye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+orld'  RESULT WAS:  bye+orld
+Evaluating expression:  bye+orld
+Original expr:  bye+orld
+New expr:  'bye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+orld'  RESULT WAS:  bye+orld
+Evaluating expression:  bye+orld
+Original expr:  bye+orld
+New expr:  'bye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+orld'  RESULT WAS:  bye+orld
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['bye', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  goodb  AND THE RESULT IS:  bye+goodb
+We constructed a valid expression:  bye+goodb
+Evaluating expression:  bye+goodb
+Original expr:  bye+goodb
+New expr:  'bye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+goodb'  RESULT WAS:  bye+goodb
+Evaluating expression:  bye+goodb
+Original expr:  bye+goodb
+New expr:  'bye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+goodb'  RESULT WAS:  bye+goodb
+Evaluating expression:  bye+goodb
+Original expr:  bye+goodb
+New expr:  'bye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+goodb'  RESULT WAS:  bye+goodb
+Evaluating expression:  bye+goodb
+Original expr:  bye+goodb
+New expr:  'bye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+goodb'  RESULT WAS:  bye+goodb
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['bye', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  ye  AND THE RESULT IS:  bye+ye
+We constructed a valid expression:  bye+ye
+Evaluating expression:  bye+ye
+Original expr:  bye+ye
+New expr:  'bye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ye'  RESULT WAS:  bye+ye
+Evaluating expression:  bye+ye
+Original expr:  bye+ye
+New expr:  'bye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ye'  RESULT WAS:  bye+ye
+Evaluating expression:  bye+ye
+Original expr:  bye+ye
+New expr:  'bye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ye'  RESULT WAS:  bye+ye
+Evaluating expression:  bye+ye
+Original expr:  bye+ye
+New expr:  'bye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ye'  RESULT WAS:  bye+ye
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['bye', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND    AND THE RESULT IS:  bye+
+We constructed a valid expression:  bye+
+Evaluating expression:  bye+
+Original expr:  bye+
+New expr:  'bye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+'  RESULT WAS:  bye+
+Evaluating expression:  bye+
+Original expr:  bye+
+New expr:  'bye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+'  RESULT WAS:  bye+
+Evaluating expression:  bye+
+Original expr:  bye+
+New expr:  'bye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+'  RESULT WAS:  bye+
+Evaluating expression:  bye+
+Original expr:  bye+
+New expr:  'bye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+'  RESULT WAS:  bye+
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['bye', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  x0  AND THE RESULT IS:  bye+x0
+We constructed a valid expression:  bye+x0
+Evaluating expression:  bye+x0
+Original expr:  bye+he
+New expr:  'bye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+he'  RESULT WAS:  bye+he
+Evaluating expression:  bye+x0
+Original expr:  bye+w
+New expr:  'bye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+w'  RESULT WAS:  bye+w
+Evaluating expression:  bye+x0
+Original expr:  bye+goodb
+New expr:  'bye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+goodb'  RESULT WAS:  bye+goodb
+Evaluating expression:  bye+x0
+Original expr:  bye+bye
+New expr:  'bye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+bye'  RESULT WAS:  bye+bye
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['bye', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND  x1  AND THE RESULT IS:  bye+x1
+We constructed a valid expression:  bye+x1
+Evaluating expression:  bye+x1
+Original expr:  bye+llo
+New expr:  'bye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+llo'  RESULT WAS:  bye+llo
+Evaluating expression:  bye+x1
+Original expr:  bye+orld
+New expr:  'bye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+orld'  RESULT WAS:  bye+orld
+Evaluating expression:  bye+x1
+Original expr:  bye+ye
+New expr:  'bye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ye'  RESULT WAS:  bye+ye
+Evaluating expression:  bye+x1
+Original expr:  bye+
+New expr:  'bye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+'  RESULT WAS:  bye+
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 0)
+args_to_execute:  ['bye', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 1)
+args_to_execute:  ['bye', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 2)
+args_to_execute:  ['bye', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 3)
+args_to_execute:  ['bye', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 4)
+args_to_execute:  ['bye', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 5)
+args_to_execute:  ['bye', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 6)
+args_to_execute:  ['bye', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 7)
+args_to_execute:  ['bye', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 8)
+args_to_execute:  ['bye', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', 9)
+args_to_execute:  ['bye', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['bye', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  bye  AND     AND THE RESULT IS:  bye+ 
+We constructed a valid expression:  bye+ 
+Evaluating expression:  bye+ 
+Original expr:  bye+ 
+New expr:  'bye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ '  RESULT WAS:  bye+ 
+Evaluating expression:  bye+ 
+Original expr:  bye+ 
+New expr:  'bye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ '  RESULT WAS:  bye+ 
+Evaluating expression:  bye+ 
+Original expr:  bye+ 
+New expr:  'bye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ '  RESULT WAS:  bye+ 
+Evaluating expression:  bye+ 
+Original expr:  bye+ 
+New expr:  'bye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ '  RESULT WAS:  bye+ 
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  he  AND THE RESULT IS:  +he
+We constructed a valid expression:  +he
+Evaluating expression:  +he
+Original expr:  +he
+New expr:  '+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+he'  RESULT WAS:  +he
+Evaluating expression:  +he
+Original expr:  +he
+New expr:  '+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+he'  RESULT WAS:  +he
+Evaluating expression:  +he
+Original expr:  +he
+New expr:  '+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+he'  RESULT WAS:  +he
+Evaluating expression:  +he
+Original expr:  +he
+New expr:  '+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+he'  RESULT WAS:  +he
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  llo  AND THE RESULT IS:  +llo
+We constructed a valid expression:  +llo
+Evaluating expression:  +llo
+Original expr:  +llo
+New expr:  '+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+llo'  RESULT WAS:  +llo
+Evaluating expression:  +llo
+Original expr:  +llo
+New expr:  '+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+llo'  RESULT WAS:  +llo
+Evaluating expression:  +llo
+Original expr:  +llo
+New expr:  '+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+llo'  RESULT WAS:  +llo
+Evaluating expression:  +llo
+Original expr:  +llo
+New expr:  '+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+llo'  RESULT WAS:  +llo
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  w  AND THE RESULT IS:  +w
+We constructed a valid expression:  +w
+Evaluating expression:  +w
+Original expr:  +w
+New expr:  '+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+w'  RESULT WAS:  +w
+Evaluating expression:  +w
+Original expr:  +w
+New expr:  '+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+w'  RESULT WAS:  +w
+Evaluating expression:  +w
+Original expr:  +w
+New expr:  '+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+w'  RESULT WAS:  +w
+Evaluating expression:  +w
+Original expr:  +w
+New expr:  '+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+w'  RESULT WAS:  +w
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  orld  AND THE RESULT IS:  +orld
+We constructed a valid expression:  +orld
+Evaluating expression:  +orld
+Original expr:  +orld
+New expr:  '+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+orld'  RESULT WAS:  +orld
+Evaluating expression:  +orld
+Original expr:  +orld
+New expr:  '+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+orld'  RESULT WAS:  +orld
+Evaluating expression:  +orld
+Original expr:  +orld
+New expr:  '+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+orld'  RESULT WAS:  +orld
+Evaluating expression:  +orld
+Original expr:  +orld
+New expr:  '+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+orld'  RESULT WAS:  +orld
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  goodb  AND THE RESULT IS:  +goodb
+We constructed a valid expression:  +goodb
+Evaluating expression:  +goodb
+Original expr:  +goodb
+New expr:  '+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+goodb'  RESULT WAS:  +goodb
+Evaluating expression:  +goodb
+Original expr:  +goodb
+New expr:  '+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+goodb'  RESULT WAS:  +goodb
+Evaluating expression:  +goodb
+Original expr:  +goodb
+New expr:  '+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+goodb'  RESULT WAS:  +goodb
+Evaluating expression:  +goodb
+Original expr:  +goodb
+New expr:  '+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+goodb'  RESULT WAS:  +goodb
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  ye  AND THE RESULT IS:  +ye
+We constructed a valid expression:  +ye
+Evaluating expression:  +ye
+Original expr:  +ye
+New expr:  '+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ye'  RESULT WAS:  +ye
+Evaluating expression:  +ye
+Original expr:  +ye
+New expr:  '+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ye'  RESULT WAS:  +ye
+Evaluating expression:  +ye
+Original expr:  +ye
+New expr:  '+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ye'  RESULT WAS:  +ye
+Evaluating expression:  +ye
+Original expr:  +ye
+New expr:  '+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ye'  RESULT WAS:  +ye
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  bye  AND THE RESULT IS:  +bye
+We constructed a valid expression:  +bye
+Evaluating expression:  +bye
+Original expr:  +bye
+New expr:  '+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+bye'  RESULT WAS:  +bye
+Evaluating expression:  +bye
+Original expr:  +bye
+New expr:  '+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+bye'  RESULT WAS:  +bye
+Evaluating expression:  +bye
+Original expr:  +bye
+New expr:  '+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+bye'  RESULT WAS:  +bye
+Evaluating expression:  +bye
+Original expr:  +bye
+New expr:  '+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+bye'  RESULT WAS:  +bye
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  x0  AND THE RESULT IS:  +x0
+We constructed a valid expression:  +x0
+Evaluating expression:  +x0
+Original expr:  +he
+New expr:  '+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+he'  RESULT WAS:  +he
+Evaluating expression:  +x0
+Original expr:  +w
+New expr:  '+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+w'  RESULT WAS:  +w
+Evaluating expression:  +x0
+Original expr:  +goodb
+New expr:  '+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+goodb'  RESULT WAS:  +goodb
+Evaluating expression:  +x0
+Original expr:  +bye
+New expr:  '+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+bye'  RESULT WAS:  +bye
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND  x1  AND THE RESULT IS:  +x1
+We constructed a valid expression:  +x1
+Evaluating expression:  +x1
+Original expr:  +llo
+New expr:  '+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+llo'  RESULT WAS:  +llo
+Evaluating expression:  +x1
+Original expr:  +orld
+New expr:  '+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+orld'  RESULT WAS:  +orld
+Evaluating expression:  +x1
+Original expr:  +ye
+New expr:  '+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ye'  RESULT WAS:  +ye
+Evaluating expression:  +x1
+Original expr:  +
+New expr:  '+'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+'  RESULT WAS:  +
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 0)
+args_to_execute:  ['', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 1)
+args_to_execute:  ['', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 2)
+args_to_execute:  ['', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 3)
+args_to_execute:  ['', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 4)
+args_to_execute:  ['', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 5)
+args_to_execute:  ['', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 6)
+args_to_execute:  ['', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 7)
+args_to_execute:  ['', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 8)
+args_to_execute:  ['', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', 9)
+args_to_execute:  ['', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:    AND     AND THE RESULT IS:  + 
+We constructed a valid expression:  + 
+Evaluating expression:  + 
+Original expr:  + 
+New expr:  '+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ '  RESULT WAS:  + 
+Evaluating expression:  + 
+Original expr:  + 
+New expr:  '+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ '  RESULT WAS:  + 
+Evaluating expression:  + 
+Original expr:  + 
+New expr:  '+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ '  RESULT WAS:  + 
+Evaluating expression:  + 
+Original expr:  + 
+New expr:  '+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ '  RESULT WAS:  + 
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['x0', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  he  AND THE RESULT IS:  x0+he
+We constructed a valid expression:  x0+he
+Evaluating expression:  x0+he
+Original expr:  he+he
+New expr:  'he+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+he'  RESULT WAS:  he+he
+Evaluating expression:  x0+he
+Original expr:  w+he
+New expr:  'w+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+he'  RESULT WAS:  w+he
+Evaluating expression:  x0+he
+Original expr:  goodb+he
+New expr:  'goodb+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+he'  RESULT WAS:  goodb+he
+Evaluating expression:  x0+he
+Original expr:  bye+he
+New expr:  'bye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+he'  RESULT WAS:  bye+he
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['x0', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  llo  AND THE RESULT IS:  x0+llo
+We constructed a valid expression:  x0+llo
+Evaluating expression:  x0+llo
+Original expr:  he+llo
+New expr:  'he+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+llo'  RESULT WAS:  he+llo
+Evaluating expression:  x0+llo
+Original expr:  w+llo
+New expr:  'w+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+llo'  RESULT WAS:  w+llo
+Evaluating expression:  x0+llo
+Original expr:  goodb+llo
+New expr:  'goodb+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+llo'  RESULT WAS:  goodb+llo
+Evaluating expression:  x0+llo
+Original expr:  bye+llo
+New expr:  'bye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+llo'  RESULT WAS:  bye+llo
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['x0', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  w  AND THE RESULT IS:  x0+w
+We constructed a valid expression:  x0+w
+Evaluating expression:  x0+w
+Original expr:  he+w
+New expr:  'he+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+w'  RESULT WAS:  he+w
+Evaluating expression:  x0+w
+Original expr:  w+w
+New expr:  'w+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+w'  RESULT WAS:  w+w
+Evaluating expression:  x0+w
+Original expr:  goodb+w
+New expr:  'goodb+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+w'  RESULT WAS:  goodb+w
+Evaluating expression:  x0+w
+Original expr:  bye+w
+New expr:  'bye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+w'  RESULT WAS:  bye+w
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['x0', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  orld  AND THE RESULT IS:  x0+orld
+We constructed a valid expression:  x0+orld
+Evaluating expression:  x0+orld
+Original expr:  he+orld
+New expr:  'he+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+orld'  RESULT WAS:  he+orld
+Evaluating expression:  x0+orld
+Original expr:  w+orld
+New expr:  'w+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+orld'  RESULT WAS:  w+orld
+Evaluating expression:  x0+orld
+Original expr:  goodb+orld
+New expr:  'goodb+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+orld'  RESULT WAS:  goodb+orld
+Evaluating expression:  x0+orld
+Original expr:  bye+orld
+New expr:  'bye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+orld'  RESULT WAS:  bye+orld
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['x0', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  goodb  AND THE RESULT IS:  x0+goodb
+We constructed a valid expression:  x0+goodb
+Evaluating expression:  x0+goodb
+Original expr:  he+goodb
+New expr:  'he+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+goodb'  RESULT WAS:  he+goodb
+Evaluating expression:  x0+goodb
+Original expr:  w+goodb
+New expr:  'w+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+goodb'  RESULT WAS:  w+goodb
+Evaluating expression:  x0+goodb
+Original expr:  goodb+goodb
+New expr:  'goodb+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+goodb'  RESULT WAS:  goodb+goodb
+Evaluating expression:  x0+goodb
+Original expr:  bye+goodb
+New expr:  'bye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+goodb'  RESULT WAS:  bye+goodb
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['x0', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  ye  AND THE RESULT IS:  x0+ye
+We constructed a valid expression:  x0+ye
+Evaluating expression:  x0+ye
+Original expr:  he+ye
+New expr:  'he+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ye'  RESULT WAS:  he+ye
+Evaluating expression:  x0+ye
+Original expr:  w+ye
+New expr:  'w+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ye'  RESULT WAS:  w+ye
+Evaluating expression:  x0+ye
+Original expr:  goodb+ye
+New expr:  'goodb+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ye'  RESULT WAS:  goodb+ye
+Evaluating expression:  x0+ye
+Original expr:  bye+ye
+New expr:  'bye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ye'  RESULT WAS:  bye+ye
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['x0', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  bye  AND THE RESULT IS:  x0+bye
+We constructed a valid expression:  x0+bye
+Evaluating expression:  x0+bye
+Original expr:  he+bye
+New expr:  'he+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+bye'  RESULT WAS:  he+bye
+Evaluating expression:  x0+bye
+Original expr:  w+bye
+New expr:  'w+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+bye'  RESULT WAS:  w+bye
+Evaluating expression:  x0+bye
+Original expr:  goodb+bye
+New expr:  'goodb+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+bye'  RESULT WAS:  goodb+bye
+Evaluating expression:  x0+bye
+Original expr:  bye+bye
+New expr:  'bye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+bye'  RESULT WAS:  bye+bye
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['x0', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND    AND THE RESULT IS:  x0+
+We constructed a valid expression:  x0+
+Evaluating expression:  x0+
+Original expr:  he+
+New expr:  'he+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+'  RESULT WAS:  he+
+Evaluating expression:  x0+
+Original expr:  w+
+New expr:  'w+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+'  RESULT WAS:  w+
+Evaluating expression:  x0+
+Original expr:  goodb+
+New expr:  'goodb+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+'  RESULT WAS:  goodb+
+Evaluating expression:  x0+
+Original expr:  bye+
+New expr:  'bye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+'  RESULT WAS:  bye+
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  ['x0', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND  x1  AND THE RESULT IS:  x0+x1
+We constructed a valid expression:  x0+x1
+Evaluating expression:  x0+x1
+Original expr:  he+llo
+New expr:  'he+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+llo'  RESULT WAS:  he+llo
+Evaluating expression:  x0+x1
+Original expr:  w+orld
+New expr:  'w+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+orld'  RESULT WAS:  w+orld
+Evaluating expression:  x0+x1
+Original expr:  goodb+ye
+New expr:  'goodb+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ye'  RESULT WAS:  goodb+ye
+Evaluating expression:  x0+x1
+Original expr:  bye+
+New expr:  'bye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+'  RESULT WAS:  bye+
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 0)
+args_to_execute:  ['x0', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 1)
+args_to_execute:  ['x0', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 2)
+args_to_execute:  ['x0', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 3)
+args_to_execute:  ['x0', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 4)
+args_to_execute:  ['x0', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 5)
+args_to_execute:  ['x0', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 6)
+args_to_execute:  ['x0', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 7)
+args_to_execute:  ['x0', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 8)
+args_to_execute:  ['x0', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', 9)
+args_to_execute:  ['x0', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['x0', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x0  AND     AND THE RESULT IS:  x0+ 
+We constructed a valid expression:  x0+ 
+Evaluating expression:  x0+ 
+Original expr:  he+ 
+New expr:  'he+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'he+ '  RESULT WAS:  he+ 
+Evaluating expression:  x0+ 
+Original expr:  w+ 
+New expr:  'w+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'w+ '  RESULT WAS:  w+ 
+Evaluating expression:  x0+ 
+Original expr:  goodb+ 
+New expr:  'goodb+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb+ '  RESULT WAS:  goodb+ 
+Evaluating expression:  x0+ 
+Original expr:  bye+ 
+New expr:  'bye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye+ '  RESULT WAS:  bye+ 
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  ['x1', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  he  AND THE RESULT IS:  x1+he
+We constructed a valid expression:  x1+he
+Evaluating expression:  x1+he
+Original expr:  llo+he
+New expr:  'llo+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+he'  RESULT WAS:  llo+he
+Evaluating expression:  x1+he
+Original expr:  orld+he
+New expr:  'orld+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+he'  RESULT WAS:  orld+he
+Evaluating expression:  x1+he
+Original expr:  ye+he
+New expr:  'ye+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+he'  RESULT WAS:  ye+he
+Evaluating expression:  x1+he
+Original expr:  +he
+New expr:  '+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+he'  RESULT WAS:  +he
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  ['x1', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  llo  AND THE RESULT IS:  x1+llo
+We constructed a valid expression:  x1+llo
+Evaluating expression:  x1+llo
+Original expr:  llo+llo
+New expr:  'llo+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+llo'  RESULT WAS:  llo+llo
+Evaluating expression:  x1+llo
+Original expr:  orld+llo
+New expr:  'orld+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+llo'  RESULT WAS:  orld+llo
+Evaluating expression:  x1+llo
+Original expr:  ye+llo
+New expr:  'ye+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+llo'  RESULT WAS:  ye+llo
+Evaluating expression:  x1+llo
+Original expr:  +llo
+New expr:  '+llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+llo'  RESULT WAS:  +llo
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  ['x1', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  w  AND THE RESULT IS:  x1+w
+We constructed a valid expression:  x1+w
+Evaluating expression:  x1+w
+Original expr:  llo+w
+New expr:  'llo+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+w'  RESULT WAS:  llo+w
+Evaluating expression:  x1+w
+Original expr:  orld+w
+New expr:  'orld+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+w'  RESULT WAS:  orld+w
+Evaluating expression:  x1+w
+Original expr:  ye+w
+New expr:  'ye+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+w'  RESULT WAS:  ye+w
+Evaluating expression:  x1+w
+Original expr:  +w
+New expr:  '+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+w'  RESULT WAS:  +w
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  ['x1', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  orld  AND THE RESULT IS:  x1+orld
+We constructed a valid expression:  x1+orld
+Evaluating expression:  x1+orld
+Original expr:  llo+orld
+New expr:  'llo+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+orld'  RESULT WAS:  llo+orld
+Evaluating expression:  x1+orld
+Original expr:  orld+orld
+New expr:  'orld+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+orld'  RESULT WAS:  orld+orld
+Evaluating expression:  x1+orld
+Original expr:  ye+orld
+New expr:  'ye+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+orld'  RESULT WAS:  ye+orld
+Evaluating expression:  x1+orld
+Original expr:  +orld
+New expr:  '+orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+orld'  RESULT WAS:  +orld
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  ['x1', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  goodb  AND THE RESULT IS:  x1+goodb
+We constructed a valid expression:  x1+goodb
+Evaluating expression:  x1+goodb
+Original expr:  llo+goodb
+New expr:  'llo+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+goodb'  RESULT WAS:  llo+goodb
+Evaluating expression:  x1+goodb
+Original expr:  orld+goodb
+New expr:  'orld+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+goodb'  RESULT WAS:  orld+goodb
+Evaluating expression:  x1+goodb
+Original expr:  ye+goodb
+New expr:  'ye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+goodb'  RESULT WAS:  ye+goodb
+Evaluating expression:  x1+goodb
+Original expr:  +goodb
+New expr:  '+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+goodb'  RESULT WAS:  +goodb
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  ['x1', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  ye  AND THE RESULT IS:  x1+ye
+We constructed a valid expression:  x1+ye
+Evaluating expression:  x1+ye
+Original expr:  llo+ye
+New expr:  'llo+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ye'  RESULT WAS:  llo+ye
+Evaluating expression:  x1+ye
+Original expr:  orld+ye
+New expr:  'orld+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ye'  RESULT WAS:  orld+ye
+Evaluating expression:  x1+ye
+Original expr:  ye+ye
+New expr:  'ye+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+ye'  RESULT WAS:  ye+ye
+Evaluating expression:  x1+ye
+Original expr:  +ye
+New expr:  '+ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ye'  RESULT WAS:  +ye
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  ['x1', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  bye  AND THE RESULT IS:  x1+bye
+We constructed a valid expression:  x1+bye
+Evaluating expression:  x1+bye
+Original expr:  llo+bye
+New expr:  'llo+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+bye'  RESULT WAS:  llo+bye
+Evaluating expression:  x1+bye
+Original expr:  orld+bye
+New expr:  'orld+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+bye'  RESULT WAS:  orld+bye
+Evaluating expression:  x1+bye
+Original expr:  ye+bye
+New expr:  'ye+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+bye'  RESULT WAS:  ye+bye
+Evaluating expression:  x1+bye
+Original expr:  +bye
+New expr:  '+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+bye'  RESULT WAS:  +bye
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  ['x1', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND    AND THE RESULT IS:  x1+
+We constructed a valid expression:  x1+
+Evaluating expression:  x1+
+Original expr:  llo+
+New expr:  'llo+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+'  RESULT WAS:  llo+
+Evaluating expression:  x1+
+Original expr:  orld+
+New expr:  'orld+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+'  RESULT WAS:  orld+
+Evaluating expression:  x1+
+Original expr:  ye+
+New expr:  'ye+'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+'  RESULT WAS:  ye+
+Evaluating expression:  x1+
+Original expr:  +
+New expr:  '+'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+'  RESULT WAS:  +
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  ['x1', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND  x0  AND THE RESULT IS:  x1+x0
+We constructed a valid expression:  x1+x0
+Evaluating expression:  x1+x0
+Original expr:  llo+he
+New expr:  'llo+he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+he'  RESULT WAS:  llo+he
+Evaluating expression:  x1+x0
+Original expr:  orld+w
+New expr:  'orld+w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+w'  RESULT WAS:  orld+w
+Evaluating expression:  x1+x0
+Original expr:  ye+goodb
+New expr:  'ye+goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+goodb'  RESULT WAS:  ye+goodb
+Evaluating expression:  x1+x0
+Original expr:  +bye
+New expr:  '+bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  '+bye'  RESULT WAS:  +bye
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 0)
+args_to_execute:  ['x1', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 1)
+args_to_execute:  ['x1', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 2)
+args_to_execute:  ['x1', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 3)
+args_to_execute:  ['x1', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 4)
+args_to_execute:  ['x1', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 5)
+args_to_execute:  ['x1', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 6)
+args_to_execute:  ['x1', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 7)
+args_to_execute:  ['x1', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 8)
+args_to_execute:  ['x1', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', 9)
+args_to_execute:  ['x1', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  ['x1', ' ']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:  x1  AND     AND THE RESULT IS:  x1+ 
+We constructed a valid expression:  x1+ 
+Evaluating expression:  x1+ 
+Original expr:  llo+ 
+New expr:  'llo+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo+ '  RESULT WAS:  llo+ 
+Evaluating expression:  x1+ 
+Original expr:  orld+ 
+New expr:  'orld+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld+ '  RESULT WAS:  orld+ 
+Evaluating expression:  x1+ 
+Original expr:  ye+ 
+New expr:  'ye+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye+ '  RESULT WAS:  ye+ 
+Evaluating expression:  x1+ 
+Original expr:  + 
+New expr:  '+ '
+SUCCESSFULLY EVALUTED EXPRESSION:  '+ '  RESULT WAS:  + 
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [0, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [0, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [0, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [0, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [0, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [0, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [0, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [0, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [0, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [0, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 1)
+args_to_execute:  [0, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 2)
+args_to_execute:  [0, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 3)
+args_to_execute:  [0, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 4)
+args_to_execute:  [0, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 5)
+args_to_execute:  [0, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 6)
+args_to_execute:  [0, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 7)
+args_to_execute:  [0, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 8)
+args_to_execute:  [0, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', 9)
+args_to_execute:  [0, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 0)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [0, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [1, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [1, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [1, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [1, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [1, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [1, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [1, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [1, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [1, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [1, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 0)
+args_to_execute:  [1, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 2)
+args_to_execute:  [1, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 3)
+args_to_execute:  [1, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 4)
+args_to_execute:  [1, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 5)
+args_to_execute:  [1, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 6)
+args_to_execute:  [1, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 7)
+args_to_execute:  [1, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 8)
+args_to_execute:  [1, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', 9)
+args_to_execute:  [1, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 1)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [1, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [2, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [2, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [2, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [2, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [2, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [2, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [2, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [2, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [2, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [2, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 0)
+args_to_execute:  [2, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 1)
+args_to_execute:  [2, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 3)
+args_to_execute:  [2, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 4)
+args_to_execute:  [2, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 5)
+args_to_execute:  [2, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 6)
+args_to_execute:  [2, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 7)
+args_to_execute:  [2, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 8)
+args_to_execute:  [2, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', 9)
+args_to_execute:  [2, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 2)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [2, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [3, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [3, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [3, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [3, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [3, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [3, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [3, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [3, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [3, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [3, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 0)
+args_to_execute:  [3, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 1)
+args_to_execute:  [3, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 2)
+args_to_execute:  [3, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 4)
+args_to_execute:  [3, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 5)
+args_to_execute:  [3, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 6)
+args_to_execute:  [3, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 7)
+args_to_execute:  [3, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 8)
+args_to_execute:  [3, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', 9)
+args_to_execute:  [3, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 3)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [3, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [4, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [4, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [4, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [4, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [4, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [4, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [4, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [4, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [4, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [4, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 0)
+args_to_execute:  [4, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 1)
+args_to_execute:  [4, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 2)
+args_to_execute:  [4, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 3)
+args_to_execute:  [4, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 5)
+args_to_execute:  [4, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 6)
+args_to_execute:  [4, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 7)
+args_to_execute:  [4, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 8)
+args_to_execute:  [4, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', 9)
+args_to_execute:  [4, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 4)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [4, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [5, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [5, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [5, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [5, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [5, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [5, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [5, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [5, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [5, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [5, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 0)
+args_to_execute:  [5, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 1)
+args_to_execute:  [5, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 2)
+args_to_execute:  [5, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 3)
+args_to_execute:  [5, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 4)
+args_to_execute:  [5, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 6)
+args_to_execute:  [5, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 7)
+args_to_execute:  [5, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 8)
+args_to_execute:  [5, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', 9)
+args_to_execute:  [5, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 5)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [5, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [6, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [6, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [6, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [6, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [6, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [6, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [6, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [6, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [6, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [6, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 0)
+args_to_execute:  [6, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 1)
+args_to_execute:  [6, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 2)
+args_to_execute:  [6, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 3)
+args_to_execute:  [6, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 4)
+args_to_execute:  [6, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 5)
+args_to_execute:  [6, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 7)
+args_to_execute:  [6, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 8)
+args_to_execute:  [6, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', 9)
+args_to_execute:  [6, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 6)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [6, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [7, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [7, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [7, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [7, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [7, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [7, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [7, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [7, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [7, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [7, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 0)
+args_to_execute:  [7, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 1)
+args_to_execute:  [7, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 2)
+args_to_execute:  [7, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 3)
+args_to_execute:  [7, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 4)
+args_to_execute:  [7, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 5)
+args_to_execute:  [7, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 6)
+args_to_execute:  [7, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 8)
+args_to_execute:  [7, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', 9)
+args_to_execute:  [7, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 7)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [7, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [8, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [8, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [8, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [8, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [8, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [8, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [8, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [8, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [8, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [8, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 0)
+args_to_execute:  [8, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 1)
+args_to_execute:  [8, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 2)
+args_to_execute:  [8, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 3)
+args_to_execute:  [8, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 4)
+args_to_execute:  [8, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 5)
+args_to_execute:  [8, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 6)
+args_to_execute:  [8, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 7)
+args_to_execute:  [8, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', 9)
+args_to_execute:  [8, 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 8)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [8, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [9, 'he']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [9, 'llo']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [9, 'w']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [9, 'orld']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [9, 'goodb']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [9, 'ye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [9, 'bye']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [9, '']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [9, 'x0']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [9, 'x1']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 0)
+args_to_execute:  [9, 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 1)
+args_to_execute:  [9, 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 2)
+args_to_execute:  [9, 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 3)
+args_to_execute:  [9, 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 4)
+args_to_execute:  [9, 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 5)
+args_to_execute:  [9, 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 6)
+args_to_execute:  [9, 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 7)
+args_to_execute:  [9, 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', 8)
+args_to_execute:  [9, 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', 9)
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+args_to_execute:  [9, ' ']
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 'he')
+Evaluating expression:  he
+Original expr:  he
+New expr:  'he'
+SUCCESSFULLY EVALUTED EXPRESSION:  'he'  RESULT WAS:  he
+args_to_execute:  [' ', 'he']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  he  AND THE RESULT IS:   +he
+We constructed a valid expression:   +he
+Evaluating expression:   +he
+Original expr:   +he
+New expr:  ' +he'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +he'  RESULT WAS:   +he
+Evaluating expression:   +he
+Original expr:   +he
+New expr:  ' +he'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +he'  RESULT WAS:   +he
+Evaluating expression:   +he
+Original expr:   +he
+New expr:  ' +he'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +he'  RESULT WAS:   +he
+Evaluating expression:   +he
+Original expr:   +he
+New expr:  ' +he'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +he'  RESULT WAS:   +he
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 'llo')
+Evaluating expression:  llo
+Original expr:  llo
+New expr:  'llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  'llo'  RESULT WAS:  llo
+args_to_execute:  [' ', 'llo']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  llo  AND THE RESULT IS:   +llo
+We constructed a valid expression:   +llo
+Evaluating expression:   +llo
+Original expr:   +llo
+New expr:  ' +llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +llo'  RESULT WAS:   +llo
+Evaluating expression:   +llo
+Original expr:   +llo
+New expr:  ' +llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +llo'  RESULT WAS:   +llo
+Evaluating expression:   +llo
+Original expr:   +llo
+New expr:  ' +llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +llo'  RESULT WAS:   +llo
+Evaluating expression:   +llo
+Original expr:   +llo
+New expr:  ' +llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +llo'  RESULT WAS:   +llo
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 'w')
+Evaluating expression:  w
+Original expr:  w
+New expr:  'w'
+SUCCESSFULLY EVALUTED EXPRESSION:  'w'  RESULT WAS:  w
+args_to_execute:  [' ', 'w']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  w  AND THE RESULT IS:   +w
+We constructed a valid expression:   +w
+Evaluating expression:   +w
+Original expr:   +w
+New expr:  ' +w'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +w'  RESULT WAS:   +w
+Evaluating expression:   +w
+Original expr:   +w
+New expr:  ' +w'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +w'  RESULT WAS:   +w
+Evaluating expression:   +w
+Original expr:   +w
+New expr:  ' +w'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +w'  RESULT WAS:   +w
+Evaluating expression:   +w
+Original expr:   +w
+New expr:  ' +w'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +w'  RESULT WAS:   +w
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 'orld')
+Evaluating expression:  orld
+Original expr:  orld
+New expr:  'orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  'orld'  RESULT WAS:  orld
+args_to_execute:  [' ', 'orld']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  orld  AND THE RESULT IS:   +orld
+We constructed a valid expression:   +orld
+Evaluating expression:   +orld
+Original expr:   +orld
+New expr:  ' +orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +orld'  RESULT WAS:   +orld
+Evaluating expression:   +orld
+Original expr:   +orld
+New expr:  ' +orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +orld'  RESULT WAS:   +orld
+Evaluating expression:   +orld
+Original expr:   +orld
+New expr:  ' +orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +orld'  RESULT WAS:   +orld
+Evaluating expression:   +orld
+Original expr:   +orld
+New expr:  ' +orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +orld'  RESULT WAS:   +orld
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 'goodb')
+Evaluating expression:  goodb
+Original expr:  goodb
+New expr:  'goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  'goodb'  RESULT WAS:  goodb
+args_to_execute:  [' ', 'goodb']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  goodb  AND THE RESULT IS:   +goodb
+We constructed a valid expression:   +goodb
+Evaluating expression:   +goodb
+Original expr:   +goodb
+New expr:  ' +goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +goodb'  RESULT WAS:   +goodb
+Evaluating expression:   +goodb
+Original expr:   +goodb
+New expr:  ' +goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +goodb'  RESULT WAS:   +goodb
+Evaluating expression:   +goodb
+Original expr:   +goodb
+New expr:  ' +goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +goodb'  RESULT WAS:   +goodb
+Evaluating expression:   +goodb
+Original expr:   +goodb
+New expr:  ' +goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +goodb'  RESULT WAS:   +goodb
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 'ye')
+Evaluating expression:  ye
+Original expr:  ye
+New expr:  'ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'ye'  RESULT WAS:  ye
+args_to_execute:  [' ', 'ye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  ye  AND THE RESULT IS:   +ye
+We constructed a valid expression:   +ye
+Evaluating expression:   +ye
+Original expr:   +ye
+New expr:  ' +ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +ye'  RESULT WAS:   +ye
+Evaluating expression:   +ye
+Original expr:   +ye
+New expr:  ' +ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +ye'  RESULT WAS:   +ye
+Evaluating expression:   +ye
+Original expr:   +ye
+New expr:  ' +ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +ye'  RESULT WAS:   +ye
+Evaluating expression:   +ye
+Original expr:   +ye
+New expr:  ' +ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +ye'  RESULT WAS:   +ye
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 'bye')
+Evaluating expression:  bye
+Original expr:  bye
+New expr:  'bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  'bye'  RESULT WAS:  bye
+args_to_execute:  [' ', 'bye']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  bye  AND THE RESULT IS:   +bye
+We constructed a valid expression:   +bye
+Evaluating expression:   +bye
+Original expr:   +bye
+New expr:  ' +bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +bye'  RESULT WAS:   +bye
+Evaluating expression:   +bye
+Original expr:   +bye
+New expr:  ' +bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +bye'  RESULT WAS:   +bye
+Evaluating expression:   +bye
+Original expr:   +bye
+New expr:  ' +bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +bye'  RESULT WAS:   +bye
+Evaluating expression:   +bye
+Original expr:   +bye
+New expr:  ' +bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +bye'  RESULT WAS:   +bye
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', '')
+Evaluating expression:  
+Original expr:  
+New expr:  ''
+SUCCESSFULLY EVALUTED EXPRESSION:  ''  RESULT WAS:  
+args_to_execute:  [' ', '']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND    AND THE RESULT IS:   +
+We constructed a valid expression:   +
+Evaluating expression:   +
+Original expr:   +
+New expr:  ' +'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +'  RESULT WAS:   +
+Evaluating expression:   +
+Original expr:   +
+New expr:  ' +'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +'  RESULT WAS:   +
+Evaluating expression:   +
+Original expr:   +
+New expr:  ' +'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +'  RESULT WAS:   +
+Evaluating expression:   +
+Original expr:   +
+New expr:  ' +'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +'  RESULT WAS:   +
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('VAR', 'x0')
+Evaluating expression:  x0
+Original expr:  x0
+New expr:  'x0'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x0'  RESULT WAS:  x0
+args_to_execute:  [' ', 'x0']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  x0  AND THE RESULT IS:   +x0
+We constructed a valid expression:   +x0
+Evaluating expression:   +x0
+Original expr:   +he
+New expr:  ' +he'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +he'  RESULT WAS:   +he
+Evaluating expression:   +x0
+Original expr:   +w
+New expr:  ' +w'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +w'  RESULT WAS:   +w
+Evaluating expression:   +x0
+Original expr:   +goodb
+New expr:  ' +goodb'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +goodb'  RESULT WAS:   +goodb
+Evaluating expression:   +x0
+Original expr:   +bye
+New expr:  ' +bye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +bye'  RESULT WAS:   +bye
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('VAR', 'x1')
+Evaluating expression:  x1
+Original expr:  x1
+New expr:  'x1'
+SUCCESSFULLY EVALUTED EXPRESSION:  'x1'  RESULT WAS:  x1
+args_to_execute:  [' ', 'x1']
+GOT THE CONCATENATE OPERATION AND THE ARGUMENTS ARE:     AND  x1  AND THE RESULT IS:   +x1
+We constructed a valid expression:   +x1
+Evaluating expression:   +x1
+Original expr:   +llo
+New expr:  ' +llo'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +llo'  RESULT WAS:   +llo
+Evaluating expression:   +x1
+Original expr:   +orld
+New expr:  ' +orld'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +orld'  RESULT WAS:   +orld
+Evaluating expression:   +x1
+Original expr:   +ye
+New expr:  ' +ye'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +ye'  RESULT WAS:   +ye
+Evaluating expression:   +x1
+Original expr:   +
+New expr:  ' +'
+SUCCESSFULLY EVALUTED EXPRESSION:  ' +'  RESULT WAS:   +
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 0)
+args_to_execute:  [' ', 0]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 1)
+args_to_execute:  [' ', 1]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 2)
+args_to_execute:  [' ', 2]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 3)
+args_to_execute:  [' ', 3]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 4)
+args_to_execute:  [' ', 4]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 5)
+args_to_execute:  [' ', 5]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 6)
+args_to_execute:  [' ', 6]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 7)
+args_to_execute:  [' ', 7]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 8)
+args_to_execute:  [' ', 8]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+Current arg:  ('CONST', ' ')
+Evaluating expression:   
+Original expr:   
+New expr:  ' '
+SUCCESSFULLY EVALUTED EXPRESSION:  ' '  RESULT WAS:   
+Current arg:  ('CONST', 9)
+args_to_execute:  [' ', 9]
+The expression  ERROR  is invalid, so we will continue to the next arg_tuple
+If we reached this point, we did not synthesize programs :(
