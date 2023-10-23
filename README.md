@@ -1,6 +1,6 @@
 # Program Synthesis
 
-**Artificial General Intelligence at its core**
+**True Artificial General Intelligence**
 
 ```
 "Program synthesis is the task of automatically ﬁnding a program in the underlying programming language that satisﬁes the user intent expressed in the form of some speciﬁcation. Since the inception of AI in the 1950s, this problem
